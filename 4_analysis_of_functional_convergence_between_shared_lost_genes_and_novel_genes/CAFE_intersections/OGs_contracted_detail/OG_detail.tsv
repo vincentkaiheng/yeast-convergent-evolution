@@ -1,0 +1,481 @@
+OG	count	combo	name	description
+OG0003139	4	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	SNQ2	Belongs to the ABC transporter superfamily. ABCG family. PDR (TC 3.A.1.205) subfamily
+OG0000314	4	Pucciniomycotina_yeast&Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Terpenoid synthase
+OG0000684	4	Pucciniomycotina_yeast&Ustilaginomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the MIP aquaporin (TC 1.A.8) family
+OG0006959	4	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0006713	4	Pucciniomycotina_yeast&Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0010439	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	Inhibitor of growth proteins N-terminal histone-binding
+OG0000022	3	Taphrinomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	cytochrome P450
+OG0000012	3	Pucciniomycotina_yeast&Taphrinomycotina_yeast&Pezizomycotina_yeast	-	Cytochrome P450
+OG0005388	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the glycosyl hydrolase 43 family
+OG0000385	3	Ustilaginomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Possible catecholamine-binding domain present in a variety of eukaryotic proteins.
+OG0003093	3	Taphrinomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Common central domain of tyrosinase
+OG0004157	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the glycosyl hydrolase 12 (cellulase H) family
+OG0002985	3	Pucciniomycotina_yeast&Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0006168	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	DnaJ molecular chaperone homology domain
+OG0005590	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	AMP-binding enzyme C-terminal domain
+OG0017739	3	Taphrinomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Aristolochene Synthase
+OG0010645	3	Taphrinomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	DSBA-like thioredoxin domain
+OG0010672	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Histone deacetylase domain
+OG0011215	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	protein dimerization activity
+OG0006275	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0004522	3	Agaricomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	DSBA-like thioredoxin domain
+OG0006301	3	Pucciniomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Trehalase
+OG0000759	3	Pucciniomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Voltage-dependent anion channel
+OG0004442	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	Na+ dependent nucleoside transporter C-terminus
+OG0006377	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0000631	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Pro-kumamolisin, activation domain
+OG0005223	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0000244	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	Dienelactone hydrolase family
+OG0000126	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin Fzo YdjA family
+OG0006098	3	Agaricomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Alcohol dehydrogenase GroES-like domain
+OG0000025	3	Pucciniomycotina_yeast&Taphrinomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the cytochrome P450 family
+OG0000120	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Pro-kumamolisin, activation domain
+OG0005181	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family
+OG0005036	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	OPT oligopeptide transporter protein
+OG0007469	3	Taphrinomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Jacalin-like lectin domain
+OG0011777	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0000098	3	Ustilaginomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Histidine kinase
+OG0005001	3	Taphrinomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Flavin-binding monooxygenase-like
+OG0005168	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	Protein of unknown function (DUF3129)
+OG0006029	3	Agaricomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0007148	3	Taphrinomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0013309	3	Pucciniomycotina_yeast&Taphrinomycotina_yeast&Agaricomycotina_yeast	-	Description
+OG0006831	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0005340	3	Agaricomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Thioredoxin
+OG0006008	3	Taphrinomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the peptidase C2 family
+OG0015647	3	Taphrinomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Domain of unknown function (DUF1772)
+OG0008902	2	Taphrinomycotina_yeast&Agaricomycotina_yeast	-	NADH dehydrogenase
+OG0008899	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0008587	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Calmodulin-binding protein Sha1
+OG0008646	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0008883	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	F-box domain protein
+OG0008815	2	Taphrinomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the FMO family
+OG0008800	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	RNase H
+OG0008691	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0008661	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0008666	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0008909	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the glycosyl hydrolase 27 family
+OG0008688	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0008835	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0009946	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	CENP-B ARS binding protein-like protein
+OG0009829	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0009808	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0009780	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0009760	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Polysaccharide deacetylase
+OG0009641	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Ulp1 protease family, C-terminal catalytic domain
+OG0009468	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family
+OG0009462	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	thaumatin-like protein
+OG0009446	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	PHD zinc finger
+OG0009438	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Chorismate mutase type II
+OG0009424	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0009423	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0009194	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Pfam:UBN2_2
+OG0009376	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0009280	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0009229	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0009211	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0008570	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Fungal specific transcription factor domain
+OG0009190	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0009187	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Uncharacterized conserved protein H4 (DUF2046)
+OG0009186	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0009165	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0009078	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Acyl-CoA dehydrogenase, N-terminal domain
+OG0009076	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Domain with 2 conserved Trp (W) residues
+OG0009066	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Phosphoglycerate mutase-like protein
+OG0009421	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Animal haem peroxidase
+OG0007775	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	DNA-directed RNA polymerase I subunit RPA34.5
+OG0007675	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	DyP1	The amino acid sequence converted into a structural homology model presents the general folding and conserved residues forming the active site of a typical dye-decolorizing-type
+OG0007670	2	Taphrinomycotina_yeast&Agaricomycotina_yeast	-	Zinc knuckle
+OG0007659	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0007631	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007622	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007620	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007613	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007605	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007594	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007580	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007577	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	LPXTG-motif cell wall anchor domain protein
+OG0007555	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Glycoside hydrolase family 92 protein
+OG0009888	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	cytochrome P450
+OG0007544	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide
+OG0007535	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Zinc finger, C2H2 type
+OG0007512	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	zinc finger
+OG0007477	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0007456	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Arb2 domain
+OG0007440	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Gpi-anchored cell surface glycoprotein
+OG0007391	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0007379	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Mechanosensitive ion channel
+OG0007367	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	FAD binding domain
+OG0007276	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Telomere capping, CST complex subunit
+OG0007275	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the Nudix hydrolase family
+OG0007267	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007216	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	RNA-dependent RNA polymerase
+OG0007550	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Aldo keto reductase
+OG0008480	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the 5'-nucleotidase family
+OG0008467	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Expressed protein
+OG0008465	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Mechanosensitive ion channel
+OG0008462	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0008443	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	)-reductase
+OG0008364	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Uncharacterized conserved protein (DUF2196)
+OG0008362	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway
+OG0008353	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	MAPEG family
+OG0008283	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Ribonuclease H protein
+OG0008221	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	F-box-like
+OG0008220	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0008214	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Chromo domain protein
+OG0008191	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007797	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0008166	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	SEC14	CRAL/TRIO, N-terminal domain
+OG0008083	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	galactokinase activity
+OG0008082	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0008078	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0008074	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0008054	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0008022	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Pentatricopeptide repeat protein
+OG0008019	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Zinc knuckle
+OG0007979	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the ubiquitin-conjugating enzyme family
+OG0007978	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	DnaJ molecular chaperone homology domain
+OG0007861	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Protein of unknown function (DUF3984)
+OG0007832	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Lytic polysaccharide mono-oxygenase, cellulose-degrading
+OG0007827	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Pyridine nucleotide-disulphide oxidoreductase
+OG0007821	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0008179	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	cob	Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex) that is part of the mitochondrial respiratory chain. The b-c1 complex mediates electron transfer from ubiquinol to cytochrome c. Contributes to the generation of a proton gradient across the mitochondrial membrane that is then used for ATP synthesis
+OG0029068	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0028933	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0028849	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	PRP8	Description
+OG0026670	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0026369	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0026335	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0026130	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Major Facilitator Superfamily
+OG0024392	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	TPS1	Glycosyltransferase family 20
+OG0023919	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0023913	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0023716	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0023612	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0023313	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	Preferred_name	Description
+OG0010185	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0021739	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	MYO1	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family
+OG0021698	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	brr2	Sec63-domain-containing protein
+OG0021685	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	CPA2	Carbamoyl-phosphate synthetase large chain, oligomerisation domain
+OG0020904	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	hAT family C-terminal dimerisation region
+OG0020757	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Encoded by
+OG0020748	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	STE STE20 PAKA protein kinase
+OG0020694	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0020626	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Integrase core domain
+OG0019624	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0019622	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0019557	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0019538	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0018733	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Xylose isomerase-like TIM barrel
+OG0023273	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0000332	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0000318	2	Taphrinomycotina_yeast&Agaricomycotina_yeast	-	Major Facilitator Superfamily
+OG0000311	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the peptidase S10 family
+OG0000290	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Serine threonine-protein kinase Sgk2
+OG0000251	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the type-B carboxylesterase lipase family
+OG0000234	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	protein dimerization activity
+OG0000229	2	Pucciniomycotina_yeast&Ustilaginomycotina_yeast	-	SCP / Tpx-1 / Ag5 / PR-1 / Sc7 family of extracellular domains.
+OG0000176	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	extracellular protein
+OG0000139	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0000121	2	Ustilaginomycotina_yeast&Agaricomycotina_yeast	-	Eisosome component PIL1
+OG0000113	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Sugar (and other) transporter
+OG0000105	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0000093	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0029573	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	atp6	Description
+OG0000089	2	Taphrinomycotina_yeast&Pezizomycotina_yeast	PIF1	DNA-dependent ATPase and 5'-3' DNA helicase required for the maintenance of both mitochondrial and nuclear genome stability
+OG0000078	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	MYND finger
+OG0000056	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0000051	2	Taphrinomycotina_yeast&Pezizomycotina_yeast	-	Phosphotransferase enzyme family
+OG0000030	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	SET (Su(var)3-9, Enhancer-of-zeste, Trithorax) domain
+OG0000029	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	GAS5	Splits internally a 1,3-beta-glucan molecule and transfers the newly generated reducing end (the donor) to the non- reducing end of another 1,3-beta-glucan molecule (the acceptor) forming a 1,3-beta linkage, resulting in the elongation of 1,3- beta-glucan chains in the cell wall
+OG0000028	2	Taphrinomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the heat shock protein 70 family
+OG0000002	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	integral membrane protein
+OG0000001	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Methyltransferase domain
+OG0035562	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0034629	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0034065	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Description
+OG0031160	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	ucp12	P-loop containing nucleoside triphosphate hydrolase protein
+OG0000092	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	acetyl-CoA synthetase-like protein
+OG0010734	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0010704	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	transposition, RNA-mediated
+OG0010632	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	nad6	NADH-ubiquinone/plastoquinone oxidoreductase chain 6
+OG0010603	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010599	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010597	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	anaphase-promoting complex-dependent catabolic process
+OG0010593	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010589	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	G-quadruplex DNA unwinding
+OG0010581	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Helicase associated domain (HA2)  Add an annotation
+OG0010569	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Glycine-rich cell wall structural protein 1
+OG0010537	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Fungal specific transcription factor domain
+OG0010528	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Protein kinase domain
+OG0010481	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0013299	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Description
+OG0010189	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010186	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010184	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010179	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Phosphatidyl serine synthase
+OG0010178	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010176	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010165	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010152	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Up-regulated During Septation
+OG0010125	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0010050	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the chalcone stilbene synthases family
+OG0010043	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0010035	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Protein of unknown function (DUF3533)
+OG0009955	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Retroviral aspartyl protease
+OG0010430	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	alpha/beta hydrolase fold
+OG0012659	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Enoyl-(Acyl carrier protein) reductase
+OG0012639	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0012638	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0012619	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	unnamed protein
+OG0012505	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Hydrophobic surface binding protein A
+OG0012145	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	REV3	DNA polymerase type-B family
+OG0012031	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0012015	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	reverse transcriptase
+OG0011987	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0011977	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0011888	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0011853	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Phospholipase_D-nuclease N-terminal
+OG0011841	2	Agaricomycotina_yeast&Saccharomycotina_yeast	nad3	Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone
+OG0010962	2	Pucciniomycotina_yeast&Taphrinomycotina_yeast	cox3	Subunits I, II and III form the functional core of the enzyme complex
+OG0011758	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0011755	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0011727	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0011700	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Hydrophobic surface binding protein A
+OG0011662	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Protein tyrosine kinase
+OG0011542	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Xylanase inhibitor N-terminal
+OG0011417	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0011219	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Encoded by
+OG0011214	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0011208	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	MaoC like domain
+OG0011122	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0011113	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	PPR repeat family
+OG0011073	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	AAA domain
+OG0011066	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	C2H2 type zinc-finger (2 copies)
+OG0011780	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family
+OG0004221	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Saccharomyces cerevisiae YJR111C
+OG0004125	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0004117	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	CENP-B ARS binding protein-like protein
+OG0004103	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Protein of unknown function (DUF3712)
+OG0004074	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Alpha-L-arabinofuranosidase C-terminus
+OG0004068	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Glycosyl Hydrolase Family 88
+OG0004038	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Motif C-terminal to PAS motifs (likely to contribute to PAS structural domain)
+OG0003972	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	G protein-coupled glucose receptor regulating Gpa2
+OG0003921	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	FORKHEAD
+OG0003920	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Enoyl-(Acyl carrier protein) reductase
+OG0003904	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Serine aminopeptidase, S33
+OG0003803	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Dynamin family
+OG0003757	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Major Facilitator Superfamily
+OG0006854	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Domain of unknown function (DUF4188)
+OG0003708	2	Taphrinomycotina_yeast&Agaricomycotina_yeast	-	Peptide N-acetyl-beta-D-glucosaminyl asparaginase amidase A
+OG0003686	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Alpha/beta hydrolase family
+OG0003500	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Extracellular dioxygenase
+OG0003267	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	PLAC8 family
+OG0002992	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the oxygen-dependent FAD-linked oxidoreductase family
+OG0002765	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Glycosyl hydrolase catalytic core
+OG0002737	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	RNA-dependent RNA polymerase
+OG0002618	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	S1/P1 Nuclease
+OG0002348	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the histidine acid phosphatase family
+OG0002041	2	Pucciniomycotina_yeast&Taphrinomycotina_yeast	-	Myb/SANT-like DNA-binding domain
+OG0001605	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Starch synthase catalytic domain
+OG0001413	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0000995	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	alpha-galactosidase
+OG0003751	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0004950	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	KR domain
+OG0004910	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0004907	2	Pucciniomycotina_yeast&Taphrinomycotina_yeast	-	Glucose dehydrogenase C-terminus
+OG0004875	2	Taphrinomycotina_yeast&Agaricomycotina_yeast	-	integral membrane protein
+OG0004863	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	N,N-dimethylaniline monooxygenase activity
+OG0004808	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family
+OG0004747	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Dienelactone hydrolase family
+OG0004746	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay
+OG0004718	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Pre-SET motif
+OG0004691	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Major Facilitator Superfamily
+OG0004674	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Apses transcription factor xbp1
+OG0004658	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the aldehyde dehydrogenase family
+OG0004642	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Bacterial low temperature requirement A protein (LtrA)
+OG0004225	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Protein of unknown function DUF262
+OG0004615	2	Agaricomycotina_yeast&Pezizomycotina_yeast	GPM1	Belongs to the phosphoglycerate mutase family. BPG- dependent PGAM subfamily
+OG0004594	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Protein of unknown function, DUF604
+OG0004583	2	Pucciniomycotina_yeast&Taphrinomycotina_yeast	-	Transcriptional regulator
+OG0004568	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family
+OG0004466	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	-	AMP-binding enzyme C-terminal domain
+OG0004439	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Myb-like DNA-binding domain
+OG0004404	2	Agaricomycotina_yeast&Pezizomycotina_yeast	ENA2	Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family
+OG0004371	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Whi5 like
+OG0004346	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	DDE superfamily endonuclease
+OG0004335	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the class I-like SAM-binding methyltransferase superfamily. C5-methyltransferase family
+OG0004315	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	NAD dependent epimerase dehydratase
+OG0004306	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0004230	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Major Facilitator Superfamily
+OG0004621	2	Taphrinomycotina_yeast&Agaricomycotina_yeast	-	regulation of kinetochore assembly
+OG0018669	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	GMC oxidoreductase
+OG0018138	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	cytochrome p450
+OG0018071	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	RAD5	helicase, member of the UBC2 RAD6 epistasis group. Functions with DNA repair protein RAD18 in error-free postreplication DNA repair. Involved in the maintenance of wild- type rates of instability of simple repetitive sequences such as poly(GT) repeats. Seems to be involved in maintaining a balance which acts in favor of error-prone non-homologous joining during DNA double-strand breaks repairs (By similarity)
+OG0017557	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Description
+OG0017510	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Succinylglutamate desuccinylase / Aspartoacylase family
+OG0016908	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Membrane bound O-acyl transferase family
+OG0016785	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Acyl CoA binding protein
+OG0016718	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0016691	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	PRP8	pre-mRNA-processing-splicing factor
+OG0016325	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Aldo keto reductase
+OG0016324	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	NIK1	Description
+OG0016290	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the cytochrome P450 family
+OG0015648	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Set domain-containing protein
+OG0000952	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the glycosyl hydrolase 7 (cellulase C) family
+OG0014808	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Ser-Thr-rich glycosyl-phosphatidyl-inositol-anchored membrane family
+OG0014773	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	ABC transporter transmembrane region
+OG0014736	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0014507	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	aglD	Alpha galactosidase A
+OG0014491	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Peroxidase, family 2
+OG0014479	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Description
+OG0014336	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Protein tyrosine kinase
+OG0014142	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	GAG-pre-integrase domain
+OG0013920	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0013695	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0013689	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0013324	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Major Facilitator Superfamily
+OG0013308	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	CoA-transferase family III
+OG0014914	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0000914	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Animal haem peroxidase
+OG0000854	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0000842	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Peroxidase, family 2
+OG0000837	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Eukaryotic aspartyl protease
+OG0000834	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Ser-Thr-rich glycosyl-phosphatidyl-inositol-anchored membrane family
+OG0000785	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0000753	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0000727	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	DDE superfamily endonuclease
+OG0000723	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Common central domain of tyrosinase
+OG0000720	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0000692	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the peptidase S10 family
+OG0000689	2	Taphrinomycotina_yeast&Agaricomycotina_yeast	-	Subtilisin protease
+OG0000676	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Protein tyrosine kinase
+OG0018715	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0000596	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0000519	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	-	Domain with 2 conserved Trp (W) residues
+OG0000516	2	Pucciniomycotina_yeast&Taphrinomycotina_yeast	-	Lytic transglycolase
+OG0000507	2	Taphrinomycotina_yeast&Pezizomycotina_yeast	MP65	Belongs to the glycosyl hydrolase 17 family
+OG0000477	2	Pucciniomycotina_yeast&Ustilaginomycotina_yeast	PDR16	Domain in homologues of a S. cerevisiae phosphatidylinositol transfer protein (Sec14p)
+OG0000476	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	DYN1	dynein heavy chain
+OG0000475	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Beta-galactosidase, domain 3
+OG0000474	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Protein kinase domain
+OG0000453	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the peptidase A1 family
+OG0000432	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Domain of unknown function (DUF5127)
+OG0000410	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Serine carboxypeptidase S28
+OG0000359	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the cytochrome P450 family
+OG0018732	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	fmn-linked oxidoreductase
+OG0000641	2	Taphrinomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the iron ascorbate-dependent oxidoreductase family
+OG0006647	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Encoded by
+OG0006578	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the cytochrome P450 family
+OG0006541	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	GMC oxidoreductase
+OG0006477	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0006472	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	NAD(P)H-binding
+OG0006459	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	3-dehydroquinate synthase
+OG0006395	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0006388	2	Pucciniomycotina_yeast&Taphrinomycotina_yeast	-	zinc finger
+OG0006386	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Opioid growth factor receptor (OGFr) conserved region
+OG0006385	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0006383	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0006381	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	UbiA prenyltransferase family
+OG0006356	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Pyridoxamine 5'-phosphate oxidase
+OG0004959	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	PHD and RING finger domain protein
+OG0006287	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	helicase activity
+OG0006284	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0006271	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Alpha beta superfamily
+OG0006261	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Calcineurin-like phosphoesterase
+OG0006248	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Macrophage migration inhibitory factor (MIF)
+OG0006239	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Arabinogalactan endo-beta-1,4-galactanase
+OG0006224	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Bacteriorhodopsin-like protein
+OG0006169	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the glycosyl hydrolase 5 (cellulase A) family
+OG0006162	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	finger domain protein
+OG0006159	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0006152	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0006131	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Protein of unknown function (DUF3245)
+OG0006127	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0006336	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Male sterility protein
+OG0007137	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	helicase activity
+OG0007133	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007100	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	PPR repeat family
+OG0007090	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0007089	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	domain-containing protein
+OG0007078	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Protein tyrosine kinase
+OG0007073	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	mndA	Glycoside hydrolase family 2 protein
+OG0007059	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain
+OG0006945	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	NAD dependent epimerase dehydratase
+OG0006940	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	O-methyltransferase
+OG0006901	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0006882	2	Taphrinomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0006870	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Alpha amylase, catalytic domain
+OG0006671	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+OG0000355	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	DEAD-like helicases superfamily
+OG0006851	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	MYND finger
+OG0006812	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Glutathione-dependent formaldehyde-activating enzyme
+OG0006807	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Taurine catabolism dioxygenase TauD, TfdA family
+OG0006805	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	bromo domain
+OG0006802	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Common central domain of tyrosinase
+OG0006795	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	heat shock factor
+OG0006794	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the glycosyl hydrolase 47 family
+OG0006786	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	NAD-binding protein
+OG0006782	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Major Facilitator Superfamily
+OG0006774	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	Preferred_name	Description
+OG0006741	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0006708	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0006855	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	basic region leucin zipper
+OG0005467	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0005402	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0005368	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	DEAD DEAH box helicase
+OG0005343	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Organic solute transporter Ostalpha
+OG0005325	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	DDE superfamily endonuclease
+OG0005324	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	transposition, RNA-mediated
+OG0005313	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0005237	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Domain of unknown function DUF21
+OG0005232	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the glycosyl hydrolase 30 family
+OG0005206	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	IQ calmodulin-binding motif protein
+OG0005166	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Bicoid-interacting protein 3 (Bin3)
+OG0005162	2	Taphrinomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0005157	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Potential Queuosine, Q, salvage protein family
+OG0006069	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	hAT family C-terminal dimerisation region
+OG0005091	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Belongs to the MIP aquaporin (TC 1.A.8) family
+OG0005079	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	alpha/beta hydrolase fold
+OG0005058	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Peroxidase, family 2
+OG0005046	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0005029	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Fungal trichothecene efflux pump (TRI12)
+OG0005018	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Inhibitor of apoptosis-promoting Bax1
+OG0005014	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Adenosine/AMP deaminase
+OG0005005	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the glutamine synthetase family
+OG0004987	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	NRG1	to Saccharomyces cerevisiae NRG2 (YBR066C) and NRG1 (YDR043C)
+OG0004973	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	-
+OG0004972	2	Taphrinomycotina_yeast&Pezizomycotina_yeast	-	NmrA-like family
+OG0004964	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Saccharomyces cerevisiae YCR015c
+OG0004963	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Haloacid dehalogenase-like hydrolase
+OG0005099	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0006054	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0006011	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Spherulation-specific family 4
+OG0006010	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	DJ-1/PfpI family
+OG0005985	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	PrpF protein
+OG0005979	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Enoyl-(Acyl carrier protein) reductase
+OG0005967	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Cellulase (glycosyl hydrolase family 5)
+OG0005965	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	AMP-binding enzyme C-terminal domain
+OG0005946	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Isocitrate/isopropylmalate dehydrogenase
+OG0005935	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Rad51 family DNA repair protein
+OG0005934	2	Taphrinomycotina_yeast&Pezizomycotina_yeast	-	Retinal pigment epithelial membrane protein
+OG0005927	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Protein tyrosine kinase
+OG0005835	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	phosphoglycerate mutase family
+OG0005803	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Domain of unknown function (DUF4748)
+OG0005479	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0005785	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Survival protein SurE
+OG0005757	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	WD domain, G-beta repeat
+OG0005743	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Lipase (class 3)
+OG0005726	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0005690	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	NADH:flavin oxidoreductase / NADH oxidase family
+OG0005647	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Zinc-binding
+OG0005626	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	Indoleamine 2,3-dioxygenase
+OG0005609	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	LrgB-like family
+OG0005565	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	carbohydrate-binding module family 19 protein
+OG0005546	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	-
+OG0005542	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Flavoprotein
+OG0005509	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	ABC-2 type transporter
+OG0005499	2	Taphrinomycotina_yeast&Saccharomycotina_yeast	-	OPT oligopeptide transporter protein
+OG0005497	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	FAD-binding domain-containing protein
+OG0005802	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Cellulose synthase

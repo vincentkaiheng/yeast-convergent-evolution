@@ -1,0 +1,6 @@
+node45_asco Taphrinomycotina-yeast -9/+0 -267/+5
+node53 Saccharomycotina-yeast -11/+12 -745/+62
+node37 Pucciniomycotina-yeast -28/+12 -462/+173
+node45_basi Ustilaginomycotina-yeast -1/+0 -8/+1
+node52 Agaricomycotina-yeast -36/+7 -825/+209
+node82 Pezizomycotina_yeast -19/+20 -199/+164

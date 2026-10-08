@@ -1,0 +1,74 @@
+OG	count	combo	name	description
+OG0000154	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	Major Facilitator Superfamily
+OG0000005	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family
+OG0000106	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	His Kinase A (phosphoacceptor) domain
+OG0000191	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	alpha/beta hydrolase fold
+OG0000303	3	Agaricomycotina_yeast&Saccharomycotina_yeast&Pezizomycotina_yeast	-	Alcohol dehydrogenase GroES-like domain
+OG0000048	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	-	Major Facilitator Superfamily
+OG0000299	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Pezizomycotina_yeast	GPD	Glyceraldehyde-3-phosphate dehydrogenase
+OG0000292	3	Pucciniomycotina_yeast&Agaricomycotina_yeast&Saccharomycotina_yeast	GIN4	Serine/Threonine protein kinases, catalytic domain
+OG0000655	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	lub1	PFU (PLAA family ubiquitin binding)
+OG0000652	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Frag1/DRAM/Sfk1 family
+OG0000636	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Repeated motif present between transmembrane helices in cystinosin, yeast ERS1p, mannose-P-dolichol utilization defect 1, and other hypothetical proteins.
+OG0000634	2	Agaricomycotina_yeast&Pezizomycotina_yeast	GPX2	Belongs to the glutathione peroxidase family
+OG0000616	2	Agaricomycotina_yeast&Pezizomycotina_yeast	PUT2	Belongs to the aldehyde dehydrogenase family
+OG0000599	2	Agaricomycotina_yeast&Pezizomycotina_yeast	fur4	Permease for cytosine/purines, uracil, thiamine, allantoin
+OG0000569	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Major Facilitator Superfamily
+OG0000559	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Inositol monophosphatase family
+OG0000530	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Triose-phosphate Transporter family
+OG0000492	2	Agaricomycotina_yeast&Pezizomycotina_yeast	PUT1	Converts proline to delta-1-pyrroline-5-carboxylate
+OG0000473	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	GPD1	Glycerol-3-phosphate dehydrogenase
+OG0000472	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	ERG26	Polysaccharide biosynthesis protein
+OG0000673	2	Agaricomycotina_yeast&Pezizomycotina_yeast	VRG4	Transporter
+OG0005496	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Transcription factor
+OG0005109	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Right handed beta helix region
+OG0004712	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the histidine acid phosphatase family
+OG0004445	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Expressed protein
+OG0004233	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0004071	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	-	Shikimate dehydrogenase substrate binding domain
+OG0003859	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Fungal specific transcription factor domain
+OG0003384	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	AMP-binding enzyme C-terminal domain
+OG0000726	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the glycosyl hydrolase 1 family
+OG0002782	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Phytanoyl-CoA dioxygenase (PhyH)
+OG0001083	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	irc3	Type III restriction enzyme, res subunit
+OG0001061	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family
+OG0000977	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	-
+OG0000796	2	Agaricomycotina_yeast&Pezizomycotina_yeast	ADH6	Alcohol dehydrogenase GroES-like domain
+OG0000779	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Putative serine esterase (DUF676)
+OG0000770	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	CKS1	Binds to the catalytic subunit of the cyclin dependent kinases and is essential for their biological function
+OG0000470	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	CKA2	Belongs to the protein kinase superfamily
+OG0000707	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	APA2	ATP adenylyltransferase
+OG0003172	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Belongs to the metallo-dependent hydrolases superfamily. Peptidase M19 family
+OG0000047	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	FAD-binding domain
+OG0006895	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Glutathione S-transferase, N-terminal domain
+OG0000011	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Major Facilitator Superfamily
+OG0000014	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Major Facilitator Superfamily
+OG0000018	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Putative lipopolysaccharide-modifying enzyme.
+OG0000024	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Permease for cytosine/purines, uracil, thiamine, allantoin
+OG0000034	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Belongs to the iron ascorbate-dependent oxidoreductase family
+OG0000046	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Major Facilitator Superfamily
+OG0000000	2	Saccharomycotina_yeast&Pezizomycotina_yeast	-	Fungal specific transcription factor domain
+OG0000060	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Aminotransferase class I and II
+OG0000063	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Glycolipid 2-alpha-mannosyltransferase
+OG0000071	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Amino acid permease
+OG0000085	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	-	Major Facilitator Superfamily
+OG0000088	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	Amidase
+OG0000096	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	-	Nadh flavin oxidoreductase nadh oxidase
+OG0000391	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Transmembrane amino acid transporter protein
+OG0000449	2	Pucciniomycotina_yeast&Saccharomycotina_yeast	NUP116	Nuclear protein 96
+OG0000445	2	Pucciniomycotina_yeast&Pezizomycotina_yeast	AIM6	Altered inheritance of mitochondria protein 6
+OG0000413	2	Agaricomycotina_yeast&Saccharomycotina_yeast	CDC11	Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin- like GTPase superfamily. Septin GTPase family
+OG0003757	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Major Facilitator Superfamily
+OG0000376	2	Agaricomycotina_yeast&Saccharomycotina_yeast	SOL1	Glucosamine-6-phosphate isomerases/6-phosphogluconolactonase
+OG0000354	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Mannosyltransferase putative
+OG0000353	2	Agaricomycotina_yeast&Saccharomycotina_yeast	FTR1	iron permease
+OG0000115	2	Agaricomycotina_yeast&Saccharomycotina_yeast	CDR1	Belongs to the ABC transporter superfamily. ABCG family. PDR (TC 3.A.1.205) subfamily
+OG0000267	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	NADPH-dependent FMN reductase
+OG0000245	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Alpha-amylase domain
+OG0000190	2	Agaricomycotina_yeast&Saccharomycotina_yeast	-	oligopeptide transporter
+OG0000181	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	von Willebrand factor (vWF) type A domain
+OG0000164	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Aldo/keto reductase family
+OG0000152	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Fungal specific transcription factor domain
+OG0000150	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	FMN-dependent dehydrogenase
+OG0000140	2	Agaricomycotina_yeast&Pezizomycotina_yeast	-	Peptidase dimerisation domain
+OG0000270	2	Pucciniomycotina_yeast&Agaricomycotina_yeast	-	Ribonuclease III family

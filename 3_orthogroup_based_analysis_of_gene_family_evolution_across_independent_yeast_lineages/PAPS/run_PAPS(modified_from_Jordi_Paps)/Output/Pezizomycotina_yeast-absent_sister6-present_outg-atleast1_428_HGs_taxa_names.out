@@ -1,0 +1,428 @@
+HG_8065 	GeCa	GlCe	KaPf	MoSn	NeCr	PeEc	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TuMe
+HG_7649 	AmRe	AsNi	GeCa	MoSn	SeLi	SpBr	TrAs
+HG_13772 	CaVi	NeCr	PyTe	RhCo	SeLi	TrAs
+HG_17195 	NeCr	PeCa	PeUc	SeLi	TrAs
+HG_10176 	CrQu	MeLa	SeLi
+HG_16909 	AmRe	NeIr	RhCo	SeLi	TaDe
+HG_14739 	KaPf	MoSn	PeEc	SeLi	TiNi	TuMe
+HG_14803 	CrQu	MaRe	MaSy	MeLa	PuSt	SeLi
+HG_10906 	CrAm	KwBe	KwDe	KwPi	KwSh	PeCa	PeUc	PyTe	RhCo	SeLi
+HG_7376 	AmRe	CrAm	CuOl	KwBe	KwDe	KwPi	KwSh	MiSa	NeCr	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	TrAs
+HG_24987 	SeLi	TrAs
+HG_35651 	RhCo	SeLi
+HG_8889 	AbBi	AmRe	AsNi	BoEd	GeCa	PeEc	PeUc	PhCo	PlOs	PyTe	SeLi	SpBr	TrAs
+HG_4975 	AbBi	AcIn	AlAf	AmRe	AsNi	BoEd	CrAm	CrQu	CuOl	DaQu	ExRh	GaLe	KaBr	KaPf	KwBe	KwDe	KwPi	KwSh	MaJa	MaRe	MaSy	MiSa	MoAp	MoSn	NaAn	PeCa	PeEc	PhCo	PuSt	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	TrAs	UmVi	UsMa	YaLi
+HG_5045 	AsNi	PyTe	SeLi	TrAs
+HG_23046 	AsNi	SeLi
+HG_14688 	AsNi	GaLe	PeCa	SeLi
+HG_5498 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MoAp	NeCr	PhCo	PlOs	PrLa	RhCo	SeLi	SpBr	SpRe	TaDe	TiWa	UsMa
+HG_34448 	KaPf	SeLi
+HG_26865 	PyTe	SeLi
+HG_8792 	AcIn	AsNi	ExRh	LiKo	MoAp	PeCa	PhCo	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi
+HG_9506 	AbBi	KwBe	KwDe	KwPi	KwSh	SeLi
+HG_11958 	AbBi	CaCo	CaVi	GaLe	KwSh	PhCo	PlOs	RhCo	SeLi
+HG_13275 	AcIn	CuOl	GeCa	KaPf	LiCh	LiKo	SeLi
+HG_5957 	AmRe	NeCr	RhCo	SeLi	TrAs
+HG_31854 	AcIn	SeLi
+HG_29864 	CuOl	SeLi
+HG_4856 	AbBi	AlAf	AmRe	AsNi	BoEd	CaAl	CaCo	CaVi	CrAm	CrQu	CuOl	DaQu	DeUd	GaLe	GeCa	GlCe	KaPf	KwBe	KwDe	KwPi	KwSh	LaNo	LiCh	MeLa	MoSn	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PuSt	PyTe	RhCo	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	TaDe	TeBo	TiNi	UmVi
+HG_18685 	AcIn	PyTe	SeLi
+HG_15258 	NeCr	PlOs	SeLi
+HG_10440 	CrQu	LaNo	MeLa	NeIr	PhCo	PnCa	PnJi	PrLa	PuSt	SaCe	SeLi
+HG_10545 	AmRe	AsNi	NeCr	PeCa	PeUc	PyTe	RhCo	SeLi	TrAs	UmVi
+HG_11561 	AcIn	ExRh	KaBr	MoAp	SeLi	SpRe	TiWa
+HG_8890 	AmRe	AsNi	PeCa	PeEc	PeUc	PyTe	RhCo	SeLi	SpBr
+HG_17787 	GeCa	PeCa	RhCo	SeLi	TrAs
+HG_13544 	AmRe	CrQu	MeLa	PuSt	SeLi	SpBr
+HG_15271 	KaPf	NeCr	RhCo	SeLi	TrAs
+HG_35715 	PeCa	SeLi
+HG_26842 	RhCo	SeLi
+HG_31649 	SeLi	TrAs
+HG_5241 	AbBi	BoEd	CaCo	CaVi	CuOl	NeCr	PeCa	PhCo	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	TrAs
+HG_11935 	AmRe	CaCo	CaVi	MoAp	MoSn	PeCa	SeLi	SpBr	TrAs
+HG_6883 	CaAl	GlCe	KaPf	MeLa	MiSa	NeIr	RhGr	SaCe	SeLi	SpBr
+HG_9526 	AcIn	PeCa	RhGr	SeLi	SpBr	TeBo
+HG_8425 	AmRe	AsNi	PeCa	PyTe	RhCo	SeLi	TrAs
+HG_14491 	AcIn	CaAl	ScOs	SeLi	SpBr
+HG_7277 	AmRe	AsNi	GeCa	KaPf	MoSn	PeCa	PeEc	PeUc	PnCa	PnJi	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TrAs	TuMe	UmVi
+HG_7324 	AmRe	GeCa	KaPf	LiCh	MoSn	NeCr	PeCa	PeEc	PyTe	RhCo	SeLi	TrAs
+HG_6440 	AsNi	CrQu	GeCa	KaPf	MeLa	MoSn	PeEc	PuSt	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi
+HG_35710 	PyTe	SeLi
+HG_9165 	AcIn	AmRe	AsNi	GeCa	KaBr	MoAp	NeCr	PeCa	PuSt	PyTe	SeLi	SpBr	SpRe	UsMa
+HG_22635 	AsNi	SeLi	UsMa
+HG_5075 	AbBi	AcIn	AsNi	BoEd	CaCo	CaVi	CrAm	CrQu	CuOl	DaQu	ExRh	GaLe	GeCa	GlCe	KaBr	KaPf	KwBe	KwDe	KwPi	KwSh	MeLa	MiSa	MoAp	MoSn	PeEc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TrAs	UmVi	UsMa
+HG_18780 	AcIn	AsNi	PeCa	SeLi
+HG_16579 	AsNi	MoSn	PeCa	PeUc	SeLi
+HG_11046 	AsNi	GeCa	NeCr	SeLi	SpBr	TrAs
+HG_11697 	AsNi	PeCa	SaCe	SeLi	TrAs	UmVi
+HG_11215 	AmRe	NeCr	PeEc	PrLa	PyTe	RhCo	SeLi	TaDe
+HG_9753 	AmRe	AsNi	PeCa	PeUc	RhCo	SeLi
+HG_31521 	AmRe	SeLi
+HG_26586 	PeCa	SeLi	UmVi
+HG_11912 	AcIn	CuOl	ExRh	PeCa	PeUc	RhCo	SeLi	TrAs
+HG_13165 	PeCa	PyTe	RhCo	SeLi
+HG_11574 	AcIn	CaCo	CaVi	SeLi
+HG_13060 	KaPf	MoSn	PeEc	PlOs	RhCo	SeLi	TiNi
+HG_6491 	AmRe	AsNi	KaPf	MoSn	PeCa	PeEc	PeUc	PhCo	PyTe	RhCo	SeLi	SpBr	TeBo	TrAs
+HG_27753 	MoAp	SeLi
+HG_8888 	AbBi	AmRe	AsNi	GeCa	PeCa	PyTe	RhCo	SeLi
+HG_18439 	LiCh	LiKo	SeLi
+HG_7875 	AbBi	AmRe	AsNi	BoEd	DaQu	GaLe	GeCa	KaPf	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TiNi	TuMe
+HG_10845 	PyTe	SeLi
+HG_7658 	GeCa	MoSn	PyTe	SeLi	SpBr	TrAs	TuMe
+HG_8162 	AcIn	CrAm	ExRh	KwBe	KwDe	KwPi	KwSh	PeCa	PyTe	SeLi
+HG_19045 	AsNi	RhCo	SeLi	TrAs
+HG_9763 	AmRe	AsNi	MoSn	NeCr	PeCa	PeEc	SeLi	SpBr
+HG_22138 	RhCo	SeLi
+HG_14860 	KaBr	MoAp	RhCo	SeLi	SpRe	UsMa
+HG_13434 	AsNi	ExRh	LiKo	NeCr	PeUc	SeLi
+HG_14040 	AmRe	PyTe	SeLi	TeBo	TiNi	TrAs
+HG_31708 	SeLi	TrAs
+HG_18096 	PeCa	PeUc	SeLi
+HG_35690 	GeCa	SeLi
+HG_22133 	GeCa	PeEc	SeLi
+HG_17198 	NeCr	PyTe	SeLi
+HG_19022 	AsNi	PeCa	PeUc	SeLi
+HG_11059 	AsNi	NeCr	PeCa	PyTe	RhCo	SeLi	TrAs
+HG_18670 	CrQu	DaQu	PeCa	SeLi
+HG_26886 	PyTe	RhCo	SeLi
+HG_17877 	GlCe	SeLi	UmVi
+HG_838 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	PhCo	PlOs	RhCo	SeLi	TrAs	UmVi
+HG_17805 	MaRe	MaSy	SeLi	SpBr	UmVi
+HG_24234 	NeCr	PeCa	SeLi
+HG_17226 	CuOl	NeCr	RhCo	SeLi
+HG_3274 	AbBi	AcIn	AmRe	AsNi	BoEd	CaCo	CaVi	CrAm	CuOl	DaQu	ExRh	GaLe	KaBr	KwBe	KwPi	KwSh	MaJa	MaRe	MaSy	MiSa	MoAp	PeCa	PeUc	PhCo	PlOs	PyTe	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	UsMa
+HG_11223 	AcIn	LaNo	MoAp	PeUc	PyTe	SeLi	TrAs	UsMa
+HG_9978 	PeCa	PyTe	SeLi
+HG_6892 	AbBi	AcIn	BoEd	CaCo	CaVi	CrAm	CuOl	DaQu	ExRh	GaLe	KaBr	KwBe	KwDe	KwPi	KwSh	MoAp	PeCa	PhCo	PlOs	SaSe	SeLi	SpRe	TiWa	TrAs	UsMa
+HG_10156 	GeCa	MoSn	PeEc	PyTe	SeLi	SpBr	TuMe
+HG_14463 	AcIn	DaQu	PeCa	SeLi	TrAs
+HG_35585 	PyTe	SeLi
+HG_26881 	PyTe	SeLi
+HG_25591 	SeLi	TeBo	TiNi
+HG_16582 	AsNi	NeCr	SeLi	TrAs
+HG_14035 	AmRe	KaPf	PeCa	SeLi	TeBo	TiNi	TrAs
+HG_10548 	AsNi	GaLe	NeCr	PeCa	PeUc	PyTe	SeLi
+HG_13429 	AmRe	AsNi	NeCr	PyTe	RhCo	SeLi	TrAs
+HG_4344 	AbBi	AsNi	BoEd	DaQu	GaLe	GeCa	KaPf	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TrAs	TuMe
+HG_19053 	AsNi	PeUc	SeLi	TrAs
+HG_11323 	AcIn	CaCo	GeCa	PeCa	PlOs	SeLi	SpBr	TrAs
+HG_5769 	AbBi	AcIn	BoEd	DaQu	ExRh	GaLe	PhCo	PlOs	SeLi
+HG_35631 	RhCo	SeLi
+HG_24967 	AmRe	PyTe	SeLi
+HG_21981 	CrQu	PyTe	RhCo	SeLi
+HG_23677 	CrQu	MeLa	SeLi
+HG_13716 	CrAm	KwDe	NeCr	SeLi
+HG_31716 	SeLi	TrAs
+HG_26845 	MoSn	SeLi
+HG_28267 	AsNi	SeLi
+HG_15666 	AmRe	PeCa	PeUc	PyTe	RhCo	SeLi
+HG_8444 	GeCa	GlCe	KaPf	MoSn	NeIr	PeCa	PeEc	PnJi	PrLa	PyTe	RhCo	SeLi	SpBr	TaDe	TeBo	TiNi	TuMe
+HG_33561 	PeUc	SeLi
+HG_35667 	PeCa	SeLi
+HG_27602 	SeLi	TrAs
+HG_20929 	AmRe	SeLi	TrAs
+HG_8815 	AlAf	GaLe	KaBr	MoAp	PhCo	SeLi	SpRe	UsMa
+HG_18424 	ExRh	PyTe	RhCo	SeLi
+HG_15648 	AcIn	MaJa	NeIr	PyTe	SeLi
+HG_17785 	PeCa	RhCo	SeLi	TrAs
+HG_19030 	AsNi	DaQu	GaLe	SeLi
+HG_35713 	PyTe	SeLi
+HG_11067 	CaCo	CaVi	GlCe	PnCa	ScCr	ScOc	ScOs	ScPo	SeLi	UmVi
+HG_25519 	SeLi	TeBo	TiNi
+HG_22123 	PyTe	SeLi
+HG_10625 	AcIn	CaCo	CaVi	ExRh	KaBr	MiSa	MoAp	RhCo	SeLi	SpRe	TiWa
+HG_14048 	GlCe	PyTe	SeLi	TiNi	TrAs	YaLi
+HG_9870 	AbBi	AcIn	CaCo	CaVi	DaQu	GaLe	MaJa	MaRe	MaSy	RhCo	SeLi	TiWa
+HG_17867 	GlCe	SeLi
+HG_20737 	CaCo	CaVi	SeLi	TrAs
+HG_14471 	AsNi	MoAp	PeUc	PyTe	SeLi	SpRe
+HG_13696 	AcIn	GaLe	KaBr	RhCo	SeLi	TaDe
+HG_23070 	AsNi	PeCa	SeLi
+HG_7363 	AmRe	ExRh	GeCa	KaBr	KaPf	MaJa	MaRe	MaSy	MoAp	MoSn	NeCr	PeEc	PyTe	RhCo	SeLi	SpBr	SpRe	TeBo	TiNi	TuMe	UsMa
+HG_5934 	AcIn	AsNi	CrAm	CuOl	ExRh	KaBr	KaPf	KwBe	KwDe	KwPi	KwSh	MiSa	MoAp	MoSn	PeEc	PeUc	PyTe	RhCo	SeLi	SpRe	TiWa
+HG_26858 	PyTe	RhCo	SeLi
+HG_27738 	PyTe	SeLi
+HG_33351 	SeLi	TiWa
+HG_4616 	AcIn	AlAf	CaAl	CrQu	DeUd	ExRh	KaBr	LaNo	MaRe	MaSy	MeLa	MiSa	MoAp	NaAn	NeIr	PlOs	PrLa	PuSt	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpLa	SpRe	TiWa	ToAg	UsMa	YaLi
+HG_22100 	GaLe	SeLi
+HG_8150 	AcIn	AmRe	AsNi	CaCo	CaVi	CrAm	CuOl	GeCa	KwBe	KwDe	KwPi	KwSh	MoAp	NeCr	PeCa	PyTe	SeLi	SpBr	TiWa
+HG_11910 	AcIn	AmRe	CuOl	KaPf	LiCh	PeCa	PeEc	SeLi
+HG_6762 	AbBi	AcIn	AmRe	CaCo	CaVi	CuOl	DaQu	ExRh	GaLe	KaBr	KwBe	KwDe	KwPi	MiSa	MoAp	NeCr	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SeLi	TiWa	TrAs	UmVi	UsMa
+HG_24975 	SeLi	TrAs
+HG_18437 	PyTe	SeLi
+HG_35726 	PyTe	SeLi
+HG_26853 	PyTe	SeLi
+HG_29870 	CuOl	SeLi
+HG_35621 	PyTe	SeLi
+HG_5171 	AcIn	CaCo	CaVi	CrAm	CrQu	CuOl	ExRh	KwBe	KwDe	KwPi	KwSh	LiKo	MeLa	MiSa	NeCr	PeCa	PuSt	PyTe	RhDi	RhGr	RhPa	RhTo	SeLi	SpLa	UmVi
+HG_20786 	AbBi	DaQu	GaLe	SeLi
+HG_21561 	PlOs	PyTe	SeLi
+HG_19025 	AsNi	PyTe	SeLi
+HG_12552 	KaPf	MoSn	PhCo	SeLi	SpBr	TeBo	TiNi	TuMe
+HG_10551 	AsNi	GeCa	PlOs	PyTe	RhCo	SeLi
+HG_20271 	NeCr	PeCa	PyTe	SeLi
+HG_13432 	AcIn	AsNi	CuOl	PeCa	PeUc	SeLi
+HG_6643 	AbBi	AcIn	BoEd	CaCo	CaVi	CrAm	CuOl	DaQu	GaLe	KaBr	KwBe	KwDe	KwPi	KwSh	MoAp	PeCa	PhCo	PlOs	SeLi	SpRe	TrAs	UmVi	UsMa
+HG_15825 	KaPf	SeLi	TeBo	TiNi
+HG_22118 	PyTe	SeLi
+HG_24391 	CuOl	PyTe	SeLi
+HG_26889 	PeCa	SeLi
+HG_5181 	AbBi	AcIn	BoEd	CaCo	CaVi	CrAm	CrQu	CuOl	DaQu	ExRh	GaLe	GlCe	KaBr	KwBe	KwDe	KwPi	KwSh	MaJa	MaRe	MaSy	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	TiWa	UmVi	UsMa
+HG_17229 	NeCr	PeCa	PeUc	SeLi
+HG_12347 	AmRe	AsNi	BoEd	MoSn	RhCo	SeLi	SpBr	YaLi
+HG_14484 	AcIn	AsNi	ExRh	PeCa	SeLi	TrAs
+HG_20235 	NeCr	PyTe	SeLi	TrAs
+HG_10892 	AsNi	PeCa	PyTe	RhCo	SeLi
+HG_35639 	PyTe	SeLi
+HG_6612 	AcIn	AsNi	CrAm	CrQu	ExRh	KaBr	KwBe	KwDe	KwPi	MeLa	MoAp	NeCr	PeCa	PeUc	PuSt	PyTe	SeLi	TrAs
+HG_35670 	PyTe	SeLi
+HG_4492 	AcIn	AsNi	ExRh	KaBr	MaJa	MaRe	MaSy	MiSa	MoAp	PeCa	PeUc	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	TiWa	UmVi	UsMa
+HG_17483 	CuOl	RhCo	SeLi	TiWa
+HG_22113 	PyTe	RhCo	SeLi
+HG_5788 	CuOl	GeCa	GlCe	KaPf	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TiWa	TuMe	UmVi
+HG_5835 	AlAf	AsNi	CaAl	CrAm	CuOl	DeUd	KwBe	KwDe	KwPi	KwSh	LaNo	LiCh	LiKo	MiSa	NaAn	NeIr	PeCa	PeUc	PrLa	PyTe	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	SeLi	SpLa	ToAg	TrAs	UmVi	YaLi
+HG_18996 	AsNi	NeCr	PeCa	SeLi
+HG_4910 	AbBi	AcIn	AmRe	AsNi	CaCo	CaVi	CrAm	CuOl	DaQu	ExRh	GaLe	GeCa	KaBr	KaPf	KwBe	KwDe	KwPi	KwSh	MiSa	MoAp	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TaDe	TiWa	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_11567 	GeCa	LiCh	NeCr	PeUc	PyTe	SeLi	TiWa	TrAs
+HG_14512 	AcIn	AsNi	ExRh	PeCa	SeLi	TrAs
+HG_7676 	AbBi	CrQu	GaLe	MeLa	NeCr	PeCa	PhCo	PlOs	PuSt	RhCo	SeLi
+HG_34449 	KaPf	SeLi
+HG_10205 	AcIn	AmRe	CaCo	CaVi	KaBr	MoAp	PeCa	PeUc	SeLi	SpRe	UsMa
+HG_35634 	RhCo	SeLi
+HG_9435 	AmRe	AsNi	PeCa	PeUc	PyTe	RhCo	SeLi
+HG_8158 	AbBi	AcIn	BoEd	CaCo	CaVi	CrAm	DaQu	GaLe	KwDe	KwPi	KwSh	PhCo	PlOs	SeLi
+HG_17511 	PnCa	PnJi	PyTe	SeLi	UmVi
+HG_7918 	AmRe	NeCr	PeCa	PeUc	PyTe	RhCo	SeLi
+HG_10902 	CrQu	MeLa	MiSa	PuSt	RhDi	RhGr	RhPa	RhTo	SeLi	TiWa
+HG_35616 	PyTe	SeLi
+HG_14548 	RhCo	SeLi	SpBr	UsMa
+HG_28211 	AsNi	SeLi
+HG_16667 	GeCa	MoSn	SeLi	SpBr	TuMe
+HG_18427 	PyTe	SeLi
+HG_35683 	PyTe	SeLi
+HG_35716 	PyTe	SeLi
+HG_31681 	SeLi	TrAs
+HG_26843 	LiCh	LiKo	SeLi
+HG_20945 	RhCo	SeLi	TrAs
+HG_5170 	AbBi	AcIn	CrQu	DaQu	ExRh	GaLe	GeCa	KaPf	KwBe	KwDe	KwPi	LiCh	LiKo	MeLa	MiSa	MoSn	NeCr	PeEc	PhCo	PrLa	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	TaDe	TeBo	TiNi	TuMe
+HG_9172 	AsNi	GaLe	KaPf	NeCr	PeCa	PeEc	PeUc	SeLi	TeBo	TiNi	TrAs
+HG_3389 	AbBi	AcIn	AlAf	AmRe	AsNi	BoEd	CaAl	CaCo	CaVi	CrAm	CrQu	CuOl	DaQu	DeUd	ExRh	GaLe	GeCa	GlCe	KaBr	KaPf	KwBe	KwDe	KwPi	KwSh	LaNo	LiCh	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa
+HG_13422 	AsNi	KaBr	MoAp	SeLi	TrAs	UmVi	UsMa
+HG_10646 	CrAm	GlCe	KwBe	KwDe	KwPi	KwSh	MiSa	NeIr	PyTe	SeLi	UmVi
+HG_10782 	GeCa	KaPf	MoSn	PyTe	SeLi	SpBr	TeBo	TiNi
+HG_35665 	PyTe	SeLi
+HG_8354 	AmRe	KaBr	MiSa	MoAp	NeCr	PrLa	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	TaDe	TrAs	UsMa
+HG_4223 	AbBi	AcIn	AlAf	AmRe	AsNi	BoEd	CaAl	CaCo	CaVi	CrAm	CrQu	CuOl	DaQu	DeUd	GaLe	GeCa	KwBe	KwDe	KwPi	KwSh	LaNo	LiCh	MaJa	MaRe	MaSy	MeLa	MiSa	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhTo	SaCe	SaSe	ScCr	ScOs	ScPo	SeLi	SpBr	SpRe	TaDe	TeBo	TiNi	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_12219 	PyTe	SeLi
+HG_22003 	SeLi	UmVi
+HG_7470 	DaQu	GaLe	GeCa	KaPf	MoAp	MoSn	NeCr	NeIr	PeCa	PeUc	PlOs	PyTe	RhCo	SeLi	SpBr	SpRe	TeBo	TiNi	TuMe	UsMa
+HG_14492 	AcIn	ExRh	MiSa	PrLa	RhCo	SeLi
+HG_14661 	AsNi	CaCo	PlOs	SeLi
+HG_6281 	AsNi	GeCa	KaPf	MiSa	MoSn	PeCa	PeEc	PhCo	PyTe	SeLi	SpBr	TeBo	TiNi	TrAs	TuMe
+HG_35711 	PyTe	SeLi
+HG_24942 	AmRe	GeCa	SeLi
+HG_5648 	AbBi	AcIn	AmRe	AsNi	BoEd	CaVi	CrAm	CrQu	CuOl	DaQu	GaLe	GlCe	KaBr	KwBe	KwDe	KwPi	KwSh	MaSy	MeLa	MiSa	MoAp	NeCr	PeCa	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhGr	RhTo	SeLi	SpRe	TiWa	TrAs	UmVi	UsMa
+HG_12506 	AsNi	RhCo	SeLi	TaDe
+HG_6306 	AbBi	BoEd	CaCo	CaVi	CrAm	CrQu	CuOl	DaQu	GaLe	GlCe	KwBe	KwDe	KwPi	KwSh	MeLa	MiSa	NeIr	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	RhDi	RhGr	RhPa	RhTo	SeLi	SpLa	TaDe	UmVi
+HG_5334 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MoAp	PeUc	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	UmVi	UsMa
+HG_8581 	AcIn	CrQu	ExRh	KaBr	MeLa	MiSa	MoAp	PuSt	PyTe	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	TiWa	UsMa
+HG_8364 	AcIn	AsNi	LiCh	LiKo	NeCr	PeCa	PeUc	PyTe	RhCo	SeLi	SpRe	TrAs
+HG_7392 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GlCe	MeLa	MiSa	PhCo	PlOs	PrLa	PuSt	RhDi	RhGr	RhPa	RhTo	SeLi	TaDe	ToAg	YaLi
+HG_17232 	AmRe	NeCr	RhCo	SeLi	TrAs
+HG_11913 	AcIn	CuOl	PeCa	PeUc	SeLi	TrAs
+HG_16111 	GeCa	RhCo	SeLi
+HG_4991 	AbBi	AcIn	AmRe	AsNi	BoEd	CrAm	DaQu	ExRh	GaLe	KwBe	KwDe	KwPi	KwSh	LiCh	LiKo	NeCr	PeCa	PhCo	PlOs	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	TrAs
+HG_28191 	AsNi	SeLi
+HG_12911 	AbBi	BoEd	DaQu	GaLe	PhCo	PlOs	SeLi	UmVi
+HG_13558 	CrQu	MeLa	PeCa	PuSt	SeLi
+HG_26856 	GeCa	SeLi
+HG_9346 	CuOl	KwBe	KwDe	KwPi	KwSh	LaNo	NaAn	PyTe	ScCr	ScOc	ScOs	ScPo	SeLi	YaLi
+HG_28173 	AsNi	SeLi
+HG_7320 	AbBi	BoEd	CaCo	CrAm	CuOl	DaQu	GeCa	KaPf	KwBe	KwDe	KwPi	KwSh	PeEc	PhCo	PlOs	PyTe	SeLi	SpBr	TeBo	TiNi	TiWa	TrAs
+HG_35606 	PyTe	SeLi
+HG_31676 	SeLi	TrAs
+HG_26838 	RhCo	SeLi
+HG_9758 	AsNi	KaBr	PeCa	PyTe	RhCo	SeLi	UsMa
+HG_29855 	CuOl	SeLi
+HG_24973 	AcIn	SeLi	TrAs
+HG_8657 	AsNi	KaPf	MoSn	PeCa	SeLi	TuMe	UmVi
+HG_11552 	AcIn	AsNi	ExRh	KaBr	MoAp	SeLi	SpRe	TiWa	UsMa
+HG_15280 	AmRe	NeCr	PyTe	RhCo	SeLi	TrAs
+HG_4309 	AbBi	AcIn	AsNi	BoEd	CaCo	CaVi	CrAm	CrQu	CuOl	DaQu	ExRh	GaLe	GlCe	KaBr	KwBe	KwDe	KwPi	KwSh	MaJa	MaSy	MeLa	MiSa	MoAp	NeCr	PeCa	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	TiWa	TrAs	UmVi	UsMa
+HG_27562 	AcIn	SeLi
+HG_5049 	BoEd	CaCo	CaVi	GaLe	KaPf	PhCo	PyTe	SeLi	SpBr	TeBo
+HG_22134 	RhCo	SeLi
+HG_11703 	AmRe	AsNi	DaQu	PyTe	SeLi	TiWa	TrAs	UmVi
+HG_35601 	PyTe	SeLi
+HG_35706 	PeCa	SeLi
+HG_35094 	SeLi	UmVi
+HG_27680 	AcIn	SeLi
+HG_20935 	AmRe	PyTe	SeLi
+HG_21541 	RhCo	SeLi	TiWa
+HG_20579 	AmRe	CuOl	RhCo	SeLi
+HG_25010 	SeLi	TrAs	UmVi
+HG_7211 	AbBi	AcIn	AmRe	AsNi	BoEd	DaQu	ExRh	GaLe	MiSa	PeCa	PhCo	PlOs	SeLi
+HG_22111 	GeCa	PyTe	SeLi
+HG_12327 	AlAf	CaAl	LaNo	PeCa	PeUc	SaCe	SeLi	TrAs
+HG_26882 	LiCh	SeLi	YaLi
+HG_27626 	SeLi	TrAs
+HG_6387 	AbBi	AmRe	BoEd	CaCo	CaVi	CrAm	DaQu	GaLe	GeCa	KwBe	KwDe	KwPi	KwSh	MiSa	MoSn	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	TaDe	TuMe
+HG_6610 	AbBi	AsNi	CaCo	GaLe	GeCa	KaPf	MoSn	PeCa	PeEc	PeUc	PhCo	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TrAs	TuMe	UmVi
+HG_35650 	PyTe	SeLi
+HG_9511 	AbBi	BoEd	DaQu	GaLe	NeCr	PhCo	PlOs	PyTe	RhCo	SeLi	TrAs
+HG_795 	AsNi	KaPf	MoSn	PeEc	SeLi	TeBo	TiNi	TuMe
+HG_17222 	AmRe	MoSn	NeCr	RhCo	SeLi
+HG_16583 	AsNi	SeLi
+HG_13325 	AcIn	PeCa	PrLa	PyTe	SeLi	TiWa
+HG_7221 	AcIn	AmRe	AsNi	CaAl	DeUd	GeCa	LaNo	MoSn	NaAn	PeCa	PeUc	PyTe	RhCo	SeLi	SpBr	TrAs	TuMe
+HG_28181 	AsNi	SeLi
+HG_17204 	AmRe	NeCr	RhCo	SeLi	TrAs
+HG_7545 	AbBi	AcIn	CaVi	CrQu	DaQu	ExRh	GaLe	MeLa	PuSt	SeLi	TiWa
+HG_35719 	PyTe	SeLi
+HG_14682 	AsNi	PeCa	PeUc	PyTe	SeLi
+HG_19018 	AsNi	NeCr	SeLi
+HG_35668 	RhCo	SeLi
+HG_11391 	AbBi	GaLe	PhCo	PlOs	PyTe	RhCo	SeLi
+HG_9845 	CrAm	KwBe	KwDe	KwPi	RhCo	SeLi	TiNi	TrAs
+HG_8961 	NeCr	PeCa	RhCo	SeLi	TrAs	UmVi
+HG_12768 	GlCe	MoSn	NeCr	PeCa	SeLi	SpBr	TeBo	TrAs
+HG_12494 	AsNi	PeCa	PeUc	PyTe	SeLi
+HG_14664 	AsNi	NeCr	PeCa	RhCo	SeLi	TrAs
+HG_12663 	AcIn	ExRh	KaBr	MoAp	SeLi	SpRe	TiWa	UsMa
+HG_16086 	GaLe	GeCa	MoSn	PeCa	SeLi
+HG_6278 	AsNi	BoEd	SeLi
+HG_35681 	PyTe	SeLi
+HG_26841 	PyTe	RhCo	SeLi
+HG_26431 	PhCo	SeLi
+HG_13830 	AcIn	CuOl	PeCa	SeLi	TrAs
+HG_2993 	AcIn	AmRe	AsNi	CrQu	DaQu	ExRh	GeCa	KaBr	KaPf	MeLa	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PuSt	PyTe	RhCo	SeLi	SpBr	SpRe	TeBo	TiNi	TiWa	TrAs	TuMe	UsMa
+HG_10234 	AmRe	GaLe	NeCr	PyTe	RhCo	SeLi	ToAg	TrAs
+HG_20925 	AmRe	RhCo	SeLi
+HG_18766 	PeCa	PeUc	PyTe	SeLi
+HG_21636 	PeCa	PeUc	RhCo	SeLi
+HG_35645 	PyTe	SeLi
+HG_8481 	GeCa	GlCe	KaPf	MoSn	NeCr	PeEc	PrLa	PyTe	RhCo	SeLi	SpBr	TaDe	TeBo	TiNi	TrAs
+HG_7977 	AbBi	AcIn	BoEd	DaQu	GaLe	MoAp	MoSn	PeCa	PhCo	PlOs	SeLi	TuMe	UsMa
+HG_14915 	PrLa	PyTe	SeLi	TaDe
+HG_16337 	MoSn	NeCr	PeEc	RhCo	SeLi
+HG_11696 	AsNi	GeCa	MoSn	PeCa	PhCo	SeLi	SpBr
+HG_12640 	CaCo	CaVi	MeLa	PeCa	SeLi
+HG_35699 	RhCo	SeLi
+HG_24994 	PeCa	SeLi	TrAs
+HG_10042 	AcIn	AmRe	DeUd	KaBr	LiCh	LiKo	MoAp	SeLi	SpRe	UsMa
+HG_10211 	CaCo	CaVi	CrAm	KwDe	KwSh	PlOs	SeLi
+HG_11573 	AcIn	ExRh	GeCa	NeCr	RhCo	SeLi	TrAs
+HG_35640 	PeEc	SeLi
+HG_8959 	CaCo	CuOl	NeCr	PeCa	PeUc	PlOs	RhCo	SeLi	TrAs
+HG_8098 	KaPf	NeCr	PeCa	PeEc	PhCo	PlOs	SeLi	TeBo	TiNi	TrAs
+HG_8233 	AmRe	AsNi	GeCa	NeCr	PeCa	PeUc	PyTe	RhCo	SeLi	TeBo	TiNi
+HG_15452 	DaQu	GeCa	SeLi
+HG_11040 	AsNi	PeCa	PeEc	PeUc	PyTe	RhCo	SeLi	TrAs
+HG_35694 	RhCo	SeLi
+HG_31725 	SeLi	TrAs
+HG_31620 	SeLi	TrAs
+HG_23089 	AsNi	SeLi
+HG_17740 	KaPf	NeIr	PeCa	SeLi	SpBr
+HG_28171 	AsNi	SeLi
+HG_14690 	AsNi	NeCr	PeUc	PyTe	SeLi
+HG_22137 	PuSt	SeLi
+HG_31707 	SeLi	TrAs
+HG_35604 	PyTe	SeLi
+HG_7271 	AsNi	GeCa	MoSn	NeCr	PeCa	PeUc	RhCo	RhGr	RhPa	RhTo	SeLi	SpBr	TrAs	TuMe
+HG_11245 	CuOl	GlCe	KaPf	MoSn	NeCr	PlOs	RhCo	SeLi
+HG_27560 	SeLi	TrAs
+HG_17776 	KwSh	SeLi	TrAs
+HG_16109 	PyTe	SeLi
+HG_11701 	AmRe	AsNi	PrLa	SeLi	TrAs
+HG_11227 	CaCo	CaVi	CrAm	CuOl	KwDe	KwPi	KwSh	PeCa	SeLi	TrAs
+HG_6277 	AbBi	AsNi	CaCo	CaVi	CrAm	DaQu	DeUd	GaLe	GeCa	KwBe	KwDe	KwPi	MoAp	MoSn	PeCa	PhCo	PlOs	PyTe	RhTo	SeLi	TrAs	UmVi
+HG_29069 	SeLi	TaDe
+HG_17758 	AmRe	SeLi
+HG_20218 	CrAm	KwPi	PeCa	SeLi
+HG_17484 	CuOl	GlCe	PeCa	SeLi	TrAs
+HG_19075 	AsNi	RhCo	SeLi	UmVi
+HG_19003 	AsNi	PeCa	SeLi	UmVi
+HG_12940 	AmRe	SeLi	TrAs
+HG_7925 	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	SeLi	TiWa
+HG_11240 	GlCe	NeCr	PyTe	SeLi
+HG_9895 	AmRe	RhCo	SeLi
+HG_31587 	AmRe	SeLi
+HG_32941 	RhDi	SeLi
+HG_35635 	RhCo	SeLi
+HG_11053 	AsNi	GeCa	MoSn	PeCa	PyTe	SeLi	SpBr	TrAs
+HG_27747 	AcIn	SeLi
+HG_23914 	SeLi	TaDe
+HG_9235 	LiCh	LiKo	MiSa	RhDi	RhGr	RhPa	RhTo	SeLi	TrAs	UmVi
+HG_24215 	NeCr	SeLi	TrAs
+HG_19070 	AsNi	RhCo	SeLi	TrAs
+HG_15752 	GlCe	MoSn	PhCo	RhCo	SeLi
+HG_17207 	GeCa	NeCr	PeCa	SeLi	TrAs
+HG_15278 	NeCr	PyTe	SeLi	TrAs
+HG_35689 	PeEc	SeLi
+HG_26880 	PeCa	SeLi
+HG_34204 	SeLi	TiNi
+HG_18733 	AcIn	PrLa	RhTo	SeLi
+HG_16668 	PyTe	SeLi	SpBr	TuMe
+HG_15683 	AcIn	MoAp	SeLi	TiWa	TrAs	UmVi
+HG_12320 	CaCo	CaVi	SeLi
+HG_5784 	AcIn	CaCo	CaVi	CrQu	ExRh	MeLa	MiSa	PuSt	RhDi	RhGr	RhPa	RhTo	SeLi	TiWa
+HG_6803 	AcIn	CaCo	CaVi	ExRh	GaLe	KaBr	MoAp	NeCr	PhCo	PlOs	PuSt	SeLi	SpRe	TiWa	TrAs	UsMa
+HG_6668 	AlAf	CaAl	DeUd	GeCa	GlCe	KaPf	KwBe	KwDe	KwPi	KwSh	LaNo	MoSn	NaAn	PeCa	PeEc	PuSt	PyTe	SaCe	SeLi	SpBr	TeBo	TiNi	TuMe	UmVi
+HG_31610 	SeLi	TrAs
+HG_26844 	PyTe	SeLi
+HG_4595 	AcIn	AmRe	AsNi	CrQu	ExRh	MeLa	MiSa	NeCr	PeCa	PeUc	PuSt	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	TaDe	TrAs
+HG_20262 	NeCr	SeLi
+HG_18441 	PyTe	RhCo	SeLi
+HG_25008 	PyTe	SeLi	TrAs
+HG_7326 	GeCa	KaPf	NeCr	PeEc	PhCo	SeLi	TeBo	TiNi
+HG_28248 	AsNi	SeLi
+HG_5341 	AbBi	AcIn	AmRe	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GeCa	KaPf	MeLa	MiSa	MoSn	NeCr	PeCa	PeEc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi
+HG_16768 	MeLa	PyTe	SeLi
+HG_4749 	AbBi	AlAf	AmRe	AsNi	BoEd	CaAl	CaCo	CaVi	CrAm	CrQu	CuOl	DaQu	DeUd	GaLe	GeCa	GlCe	KaPf	KwBe	KwDe	KwPi	KwSh	LaNo	LiCh	LiKo	MeLa	MoSn	NaAn	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	TeBo	TiNi	TuMe	UmVi
+HG_13951 	BoEd	DaQu	PhCo	SeLi
+HG_12766 	AbBi	CrAm	NeCr	PeCa	SeLi
+HG_28261 	AsNi	SeLi
+HG_22637 	AcIn	PeCa	SeLi
+HG_24228 	NeCr	PeCa	SeLi
+HG_22122 	PyTe	SeLi
+HG_23074 	AsNi	PeUc	SeLi
+HG_6276 	AcIn	AsNi	ExRh	GeCa	GlCe	KaBr	KaPf	LiCh	MiSa	MoAp	MoSn	NeIr	PeEc	PhCo	PyTe	RhCo	RhDi	SeLi	SpBr	SpRe	TeBo	TiNi	TiWa	UsMa
+HG_6323 	SeLi	TeBo	TiNi
+HG_9312 	SeLi	YaLi
+HG_12761 	NeCr	PeCa	PeEc	RhCo	SeLi
+HG_23192 	AsNi	RhCo	SeLi
+HG_19065 	AsNi	PeUc	PyTe	SeLi
+HG_13746 	KwBe	KwDe	KwPi	KwSh	PyTe	SeLi
+HG_26875 	PyTe	SeLi
+HG_12333 	AcIn	AlAf	CaAl	LaNo	PyTe	SaCe	SeLi	UsMa
+HG_12502 	AmRe	AsNi	LiKo	NeCr	PeCa	PeUc	SeLi
+HG_12743 	AlAf	CaAl	KwBe	KwDe	LaNo	MoAp	RhCo	SeLi
+HG_6286 	AbBi	AcIn	AmRe	BoEd	CaCo	CaVi	CrAm	CrQu	CuOl	DaQu	GaLe	KwBe	KwDe	KwPi	KwSh	MeLa	PhCo	PlOs	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	TiWa	TuMe
+HG_20959 	SeLi	TrAs
+HG_19060 	AsNi	PeUc	SeLi
+HG_11676 	AmRe	AsNi	NeCr	PeCa	PeUc	RhCo	SeLi	TrAs	TuMe
+HG_35679 	PeCa	SeLi
+HG_25854 	PlOs	SeLi
+HG_26839 	PeCa	SeLi
+HG_18436 	PyTe	SeLi
+HG_17797 	AcIn	ExRh	GlCe	PyTe	SeLi
+HG_15281 	AmRe	NeCr	PeCa	PyTe	RhCo	SeLi
+HG_11248 	GeCa	MoSn	NeCr	PeEc	PyTe	SeLi	SpBr	TeBo	TiNi	TrAs
+HG_23202 	AsNi	PlOs	SeLi
+HG_11417 	AbBi	BoEd	GaLe	SeLi
+HG_6302 	AbBi	AcIn	BoEd	CaCo	CrAm	CrQu	CuOl	DaQu	GaLe	KaBr	KwBe	KwDe	KwPi	KwSh	MeLa	MoAp	NeCr	NeIr	PhCo	PlOs	PrLa	PyTe	SeLi	SpRe	TaDe	TrAs	UmVi	UsMa
+HG_22135 	PyTe	SeLi
+HG_13777 	AmRe	NeCr	PeCa	PuSt	SeLi
+HG_12487 	AmRe	AsNi	RhCo	SeLi	TrAs
+HG_35674 	PyTe	SeLi
+HG_10004 	AcIn	CaCo	CaVi	CuOl	KwDe	SeLi	UmVi
+HG_27681 	AcIn	SeLi
+HG_18777 	AcIn	SeLi
+HG_19006 	AsNi	PeCa	RhCo	SeLi
+HG_19078 	AmRe	AsNi	PlOs	SeLi
+HG_18431 	PyTe	SeLi
+HG_14124 	GeCa	MoSn	PeEc	SeLi	SpBr	TeBo
+HG_7149 	CrQu	CuOl	GaLe	GeCa	MeLa	MiSa	NeIr	PuSt	PyTe	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	TrAs
+HG_35720 	RhCo	SeLi
+HG_16589 	AsNi	SeLi

@@ -1,0 +1,19 @@
+Gene family presence comparison summary
+======================================
+
+Input orthogroup file: ./Orthogroups.GeneCount_renamed.tsv
+Mapping file: /home/yankh/76_converge/76_fungi_trait.txt
+
+Per-group descriptive statistics (present OG counts per species):
+Unicellular (trait=1): n=43, mean=5390.12, median=5473.0, std=1151.19
+Multicellular (trait=0): n=33, mean=6811.12, median=6924.0, std=753.16
+
+Statistical test: Mann-Whitney U (one-sided, alternative='less')
+Test statistic: 222.0
+One-sided p-value (uni < multi): 1.66499e-07
+Significance threshold: 0.05
+Result: SIGNIFICANT (unicellular < multicellular)
+
+Missing OG identification criteria: present in >= 50% of multicellular species (threshold count = 17), and absent in all unicellular species.
+Number of OGs meeting criteria: 9
+Saved detailed list to: ./Orthogroups.missing_in_unicellular.tsv

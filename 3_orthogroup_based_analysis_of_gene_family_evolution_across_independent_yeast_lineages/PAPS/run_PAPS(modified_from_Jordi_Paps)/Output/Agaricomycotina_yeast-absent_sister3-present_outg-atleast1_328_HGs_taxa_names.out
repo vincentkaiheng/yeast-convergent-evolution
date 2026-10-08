@@ -1,0 +1,328 @@
+HG_6982 	AbBi	AmRe	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	MiSa	MoSn	NeCr	PhCo	PlOs	PyTe	RhCo	SeLi	TrAs	TuMe
+HG_3688 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_5752 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	KaBr	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa
+HG_7681 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MiSa	MoAp	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa	UmVi	UsMa
+HG_4258 	AbBi	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GlCe	KaBr	LiCh	LiKo	MaJa	MaRe	MaSy	MiSa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	RhDi	RhTo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_3333 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UsMa	YaLi
+HG_6410 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	GlCe	KaBr	MiSa	MoAp	PhCo	PlOs	PuSt	SaCe	SpRe	TiWa	UmVi	UsMa
+HG_9088 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	GaLe	KaBr	MoAp	PhCo	PlOs	SpRe	TiWa
+HG_4887 	AbBi	AcIn	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaPf	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TiWa	TrAs	UmVi
+HG_5004 	AbBi	AcIn	AlAf	AmRe	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	MiSa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TaDe	TeBo	TiNi	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4120 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_11976 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	UmVi
+HG_5498 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MoAp	NeCr	PhCo	PlOs	PrLa	RhCo	SeLi	SpBr	SpRe	TaDe	TiWa	UsMa
+HG_6605 	AbBi	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaBr	MoAp	MoSn	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpRe	TaDe	TiWa	TrAs	UsMa
+HG_1414 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	LiKo	MeLa	NeCr	PeCa	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	SeLi	SpBr	TaDe	TrAs
+HG_6156 	AbBi	AsNi	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	GaLe	GeCa	KaPf	LiKo	MoSn	NeIr	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TrAs	TuMe	UmVi
+HG_4727 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	MaJa	MaRe	MaSy	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	SaCe	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_3070 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_2349 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa
+HG_5555 	AbBi	AcIn	AlAf	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	GaLe	GlCe	KaBr	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MoAp	NaAn	NeIr	PhCo	PlOs	PnCa	PnJi	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SpLa	SpRe	TiWa	ToAg	UmVi	UsMa	YaLi
+HG_121 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	MaJa	MaSy	MeLa	MoAp	MoSn	NeCr	PeCa	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	SeLi	SpBr	SpRe	TaDe	TiWa	TrAs	UsMa
+HG_9516 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo
+HG_4237 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	GaLe	KaBr	LiCh	LiKo	MaJa	MaRe	MaSy	MoAp	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SpRe	UsMa
+HG_5153 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MeLa	MiSa	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	SeLi	SpBr	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi
+HG_3894 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4181 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4052 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	ToAg	TrAs	UmVi	UsMa	YaLi
+HG_245 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	KaPf	LaNo	LiCh	LiKo	MeLa	MiSa	MoSn	NaAn	NeCr	NeIr	PeCa	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	SaCe	SaSe	SeLi	SpBr	SpLa	TeBo	TiNi	ToAg	TrAs	TuMe	YaLi
+HG_3812 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MaSy	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_6449 	AbBi	AsNi	BoEd	CaCo	CaVi	DaQu	GaLe	LiKo	PeCa	PeUc	PhCo	PlOs
+HG_4593 	AbBi	AcIn	AmRe	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	TrAs	TuMe	UsMa	YaLi
+HG_4964 	AbBi	AcIn	AmRe	AsNi	AuMe	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GlCe	KaBr	KaPf	MeLa	MiSa	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi	UsMa
+HG_5122 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	KaBr	MeLa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe
+HG_6852 	AbBi	AuMe	AuPu	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	MeLa	PeCa	PhCo	PlOs	PuSt	RhCo	SeLi
+HG_73 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MeLa	MiSa	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhGr	RhPa	RhTo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi
+HG_6635 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	MeLa	MiSa	PhCo	PlOs	PuSt	TiWa	TrAs	UmVi
+HG_5317 	AbBi	AmRe	AsNi	BoEd	CaCo	CaVi	DaQu	GaLe	GeCa	KaPf	MoSn	PeEc	PhCo	PlOs	RhCo	SpBr	TeBo	TiNi	TrAs	TuMe
+HG_8347 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	TiWa	TrAs
+HG_7158 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	GlCe	KaBr	MaJa	MaRe	MaSy	MiSa	MoAp	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa	UmVi	UsMa
+HG_3461 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_476 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MeLa	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	SeLi	SpBr	SpRe	TeBo	TiNi	TiWa	TrAs	UmVi	UsMa
+HG_6686 	AbBi	AcIn	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	KaBr	MoAp	NeIr	PhCo	PlOs	PrLa	PyTe	SeLi	SpRe	TaDe	TiWa	UsMa
+HG_5415 	AbBi	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	PhCo	PlOs
+HG_4484 	AbBi	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	PeCa	PhCo	PlOs	RhCo	SeLi	TrAs
+HG_7690 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_6331 	AbBi	AlAf	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	GaLe	KaPf	LiKo	MoSn	NaAn	PeEc	PhCo	PlOs	SaSe	SpLa	TeBo	TiNi	TuMe	YaLi
+HG_9361 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	GaLe	KaBr	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_4902 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	SaSe	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	ToAg	TrAs	YaLi
+HG_640 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	LiCh	LiKo	MoAp	NeCr	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpRe	TrAs	UsMa
+HG_6960 	AbBi	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaPf	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhDi	RhPa	RhTo	SeLi	TeBo	TiNi	TuMe
+HG_3949 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	MaRe	MaSy	MiSa	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	RhGr	RhPa	RhTo	SeLi	SpBr	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi
+HG_10179 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	PhCo	PlOs	PuSt
+HG_6165 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GlCe	KaBr	MeLa	MiSa	MoAp	PhCo	PlOs	PnCa	PnJi	PuSt	RhDi	RhGr	RhPa	RhTo	ScCr	ScOc	ScOs	ScPo	SpRe	TiWa	UmVi	UsMa
+HG_4824 	AbBi	AcIn	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GlCe	KaBr	KaPf	LiCh	LiKo	MeLa	MoAp	NeCr	PeCa	PeEc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	TeBo	TiNi	TiWa	TrAs	UmVi	UsMa
+HG_43 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs	PrLa	RhDi	RhGr	RhPa	RhTo	UmVi
+HG_8100 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	MiSa	PhCo	PlOs	RhDi	RhGr	RhTo
+HG_5476 	AbBi	AcIn	AlAf	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MaSy	MoAp	MoSn	NaAn	NeIr	PeEc	PhCo	PlOs	PnCa	PnJi	SaSe	SpBr	SpLa	SpRe	TiNi	TiWa	ToAg	TuMe	UmVi	UsMa	YaLi
+HG_838 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	PhCo	PlOs	RhCo	SeLi	TrAs	UmVi
+HG_8465 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo
+HG_4158 	AbBi	AcIn	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GeCa	KaPf	LiKo	MeLa	MoSn	NeIr	PeCa	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	SeLi	SpBr	TaDe	TrAs	TuMe	UmVi
+HG_3362 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_3918 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	KaPf	PeEc	PhCo	PlOs	TeBo	TiNi
+HG_306 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExVi	GaLe	GeCa	KaPf	LaNo	LiCh	LiKo	NaAn	NeCr	NeIr	PeCa	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_6351 	AbBi	AmRe	AsNi	AuMe	AuPu	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaPf	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	ToAg	TrAs	TuMe
+HG_5574 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MiSa	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa	UsMa
+HG_127 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	KaPf	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	RhPa	RhTo	SeLi	SpBr	TeBo	TiNi	TiWa	TrAs	TuMe
+HG_4385 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MiSa	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_4561 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaPf	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TaDe	TeBo	TiNi	TrAs	TuMe
+HG_4297 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	MeLa	PhCo	PlOs	PuSt	RhPa	TiNi	TiWa
+HG_11974 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	UmVi
+HG_7069 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	MoAp	PhCo	PlOs	SpRe	TiWa
+HG_6958 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GlCe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhTo	SpRe	TiWa	UsMa
+HG_4715 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaPf	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SpBr	TeBo	TiNi	ToAg	TrAs	TuMe
+HG_8073 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GlCe	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	UmVi
+HG_3743 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi
+HG_9369 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MoAp	PhCo	PlOs	SpRe	UsMa
+HG_3470 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4008 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MaRe	MaSy	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_693 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	KaPf	MeLa	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TrAs
+HG_996 	AbBi	AmRe	AsNi	AuMe	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	LiCh	LiKo	MeLa	MoAp	MoSn	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpRe	TiNi	TrAs	UmVi
+HG_6195 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GeCa	NeCr	PhCo	PlOs
+HG_6154 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	KaPf	MeLa	MiSa	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	SeLi	SpBr	TiWa	TrAs	TuMe
+HG_8171 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo
+HG_11951 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs
+HG_3577 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_6478 	AbBi	AmRe	AsNi	AuMe	AuPu	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GeCa	MeLa	NeCr	PeUc	PhCo	PlOs	PuSt	RhCo	SpBr	TrAs
+HG_10187 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	PhCo	PlOs	PuSt	UmVi
+HG_521 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaPf	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	SpRe	TaDe	TiNi	TrAs	TuMe	UmVi	UsMa
+HG_9514 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs	RhDi	RhPa	RhTo
+HG_701 	AbBi	AmRe	AsNi	AuMe	AuPu	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaPf	MoSn	NeCr	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhPa	RhTo	SeLi	SpBr	TeBo	TiNi	TrAs	TuMe
+HG_5789 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TuMe
+HG_4993 	AbBi	AcIn	AmRe	AsNi	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MaSy	MiSa	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhTo	SpBr	SpRe	TeBo	TiNi	TrAs	TuMe	UsMa	YaLi
+HG_7007 	AbBi	AlAf	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	LaNo	LiCh	LiKo	NaAn	NeIr	PhCo	PlOs	PrLa	SaSe	ScCr	ScOc	ScOs	ScPo	SpLa	ToAg	UmVi	YaLi
+HG_5965 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MiSa	MoAp	PhCo	PlOs	PuSt	PyTe	RhTo	SpRe	TiWa	UsMa
+HG_4952 	AbBi	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GeCa	KaBr	KaPf	LiCh	LiKo	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	PeEc	PhCo	PlOs	PuSt	PyTe	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpRe	TeBo	TiNi	TiWa	TuMe	UmVi	UsMa
+HG_9477 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	KaBr	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_5129 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MeLa	MiSa	MoSn	NeCr	PeCa	PeEc	PhCo	PlOs	PrLa	PuSt	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	TaDe	TeBo	TiNi	TrAs	TuMe	UmVi
+HG_8464 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GlCe	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	UmVi
+HG_11969 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs
+HG_7492 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MeLa	MoAp	PhCo	PlOs	PuSt	RhTo	SpRe	TiWa	UmVi	UsMa
+HG_11285 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_6262 	AbBi	AcIn	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	MiSa	NeCr	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	TaDe	TrAs
+HG_8876 	AbBi	AuPu	BoEd	CaCo	CaVi	DaQu	GaLe	LiKo	PhCo	PlOs	SeLi	UmVi
+HG_4745 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MiSa	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_5485 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	NeIr	PhCo	PlOs
+HG_5790 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaBr	KaPf	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	SpRe	TeBo	TiNi	TrAs	TuMe	UsMa
+HG_8691 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	UmVi
+HG_393 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaBr	LiCh	LiKo	MeLa	MiSa	MoAp	MoSn	NeCr	NeIr	PeCa	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpRe	TaDe	TeBo	TrAs	TuMe	UmVi	UsMa
+HG_8474 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MaRe	MaSy	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_4302 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	LiKo	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhDi	RhGr	RhPa	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TiWa	ToAg	TrAs	TuMe	UsMa	YaLi
+HG_9858 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MiSa	PhCo	PlOs	RhDi	RhPa	RhTo
+HG_1508 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_5 	AbBi	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	MiSa	NeCr	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	TrAs
+HG_8072 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MaJa	MaRe	MaSy	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhPa
+HG_10246 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs	RhPa	RhTo
+HG_7920 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	PhCo	PlOs	RhPa	RhTo
+HG_2424 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UsMa	YaLi
+HG_4353 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	LaNo	LiCh	LiKo	MoSn	PeCa	PeUc	PhCo	PlOs	PyTe	RhDi	RhGr	RhTo	SaCe	SaSe	SeLi	TrAs	TuMe
+HG_7125 	AbBi	AlAf	AmRe	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GlCe	KaPf	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	TeBo	TiNi	TrAs
+HG_5093 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MaJa	MaSy	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	TeBo	TiNi	ToAg	TrAs	TuMe	YaLi
+HG_4812 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe	UsMa
+HG_3711 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_7930 	AbBi	AlAf	BoEd	CaAl	CaCo	CaVi	DaQu	GaLe	GeCa	GlCe	KaPf	MoSn	NaAn	PeEc	PhCo	PlOs	SaCe	SaSe	SpBr	TeBo	TiNi
+HG_4451 	AbBi	AmRe	AsNi	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaPf	LiCh	LiKo	MiSa	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SpBr	TrAs	TuMe
+HG_7311 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MeLa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	SpRe	TiWa	UsMa
+HG_3174 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_10190 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	PhCo	PlOs	PuSt
+HG_6889 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GlCe	KaBr	MeLa	MiSa	MoAp	PhCo	PlOs	PrLa	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe	TaDe	UmVi	UsMa
+HG_4951 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	MiSa	MoAp	NeCr	NeIr	PeCa	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TiNi	TiWa	TrAs	UmVi	UsMa
+HG_5062 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MaSy	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	UmVi	UsMa
+HG_6446 	AbBi	AcIn	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	KaPf	MoSn	NeCr	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TiNi	TrAs
+HG_11293 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	UmVi
+HG_6622 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GlCe	KaBr	MeLa	MiSa	MoAp	NeIr	PhCo	PlOs	PrLa	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe	TaDe	TiWa	ToAg	UsMa
+HG_632 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	MeLa	NeCr	PeCa	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	SeLi	TaDe	TrAs
+HG_5345 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GlCe	KaPf	LiCh	LiKo	MiSa	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	TeBo	TiNi	TrAs	UmVi
+HG_8463 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MeLa	MoAp	PhCo	PlOs	PuSt	SpRe	TiWa	UsMa
+HG_5304 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PyTe	RhCo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi
+HG_7274 	AbBi	AsNi	BoEd	CaCo	CaVi	DaQu	GaLe	PeCa	PeUc	PhCo	PlOs	RhCo	TrAs
+HG_7491 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhPa	SpRe	TiWa	UsMa
+HG_88 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs
+HG_6132 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	KaPf	MiSa	MoSn	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	RhDi	RhGr	RhPa	SeLi	TaDe	TeBo	TiNi	TuMe	UmVi
+HG_7774 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	GlCe	KaBr	MiSa	MoAp	PhCo	PlOs	RhDi	RhPa	RhTo	SpRe	TuMe	UmVi	UsMa
+HG_3596 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_5443 	AbBi	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	KaBr	MoAp	NeCr	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpRe	TrAs
+HG_5179 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	KaBr	KaPf	MiSa	MoAp	MoSn	NeCr	PeCa	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhPa	RhTo	SeLi	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	UsMa	YaLi
+HG_1400 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_5402 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo
+HG_8473 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_3282 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_3370 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_3709 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	GaLe	GeCa	KaBr	LaNo	LiCh	LiKo	MaSy	MeLa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TiWa	ToAg	UmVi	UsMa	YaLi
+HG_7928 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PeEc	PhCo	PlOs
+HG_9857 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo
+HG_4883 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_1419 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PyTe	RhCo	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	UsMa
+HG_17 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_5019 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TaDe	TiWa	TuMe	UsMa
+HG_8266 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MoAp	PhCo	PlOs	SpRe	TiWa	UmVi	UsMa
+HG_3719 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4440 	AbBi	AcIn	AlAf	AmRe	AsNi	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MaRe	MaSy	MeLa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnJi	PrLa	PuSt	PyTe	RhCo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_10185 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GlCe	MeLa	PhCo	PlOs	PuSt
+HG_6240 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GeCa	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	RhCo	SeLi	TeBo	TiNi	UmVi
+HG_5092 	AbBi	AcIn	AmRe	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	KaBr	MeLa	MiSa	MoAp	NeIr	PhCo	PlOs	PrLa	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	TaDe	TiWa	TrAs	UsMa
+HG_5180 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	NaAn	PhCo	PlOs	PuSt	RhPa	TiWa
+HG_3880 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	MeLa	MiSa	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	SeLi	SpBr	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UsMa	YaLi
+HG_4418 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	MeLa	MiSa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhTo	SeLi	SpBr	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa
+HG_7448 	AbBi	AmRe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	KaBr	MoAp	PhCo	PlOs	PrLa	SeLi	SpRe	UsMa
+HG_71 	AbBi	AcIn	AsNi	BoEd	CaCo	CaVi	DaQu	GaLe	KaBr	MoAp	PeCa	PhCo	PlOs	SpRe	UsMa
+HG_5334 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MoAp	PeUc	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SeLi	SpRe	UmVi	UsMa
+HG_5158 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_3946 	AbBi	AmRe	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	MoSn	NeCr	NeIr	PeEc	PhCo	PlOs	PrLa	PyTe	RhCo	SeLi	SpBr	TaDe	TeBo	TiNi	TrAs	TuMe	UmVi
+HG_5205 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SaCe	SaSe	SeLi	SpBr	SpLa	TeBo	TiNi	ToAg	TuMe	YaLi
+HG_7392 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GlCe	MeLa	MiSa	PhCo	PlOs	PrLa	PuSt	RhDi	RhGr	RhPa	RhTo	SeLi	TaDe	ToAg	YaLi
+HG_3905 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NeCr	PeEc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi	UsMa
+HG_6888 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa	UsMa
+HG_6806 	AbBi	AcIn	AuMe	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	GaLe	GlCe	KaBr	MaJa	MaRe	MaSy	MoAp	NaAn	NeCr	PhCo	PlOs	PuSt	SpRe	TiWa	UmVi	UsMa
+HG_10267 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_7329 	AbBi	AlAf	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	GaLe	GlCe	LaNo	LiCh	LiKo	NaAn	PhCo	PlOs	PnCa	PnJi	SaCe	SaSe	ToAg	UmVi	YaLi
+HG_4372 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnJi	PuSt	PyTe	RhCo	SaCe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UsMa	YaLi
+HG_4928 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	PeCa	PhCo	PlOs	RhCo	RhPa	RhTo	TrAs
+HG_11949 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs
+HG_4243 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	LiCh	LiKo	MaJa	MaRe	MaSy	MiSa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	ScCr	ScOc	ScOs	ScPo	SpBr	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4067 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UsMa	YaLi
+HG_2767 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	LiCh	LiKo	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_3271 	AbBi	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	GlCe	KaBr	MiSa	MoAp	PhCo	PlOs	SpRe	UsMa
+HG_8698 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	KaBr	MaJa	MaSy	MoAp	PhCo	PlOs	SpRe	TiWa	UmVi	UsMa
+HG_334 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	KaPf	LiCh	MeLa	MiSa	MoSn	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe
+HG_6672 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GlCe	KaBr	MaRe	MaSy	MeLa	MoAp	PhCo	PlOs	PuSt	SpRe	TiWa	UmVi	UsMa
+HG_6543 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GlCe	KaBr	MaRe	MaSy	MeLa	MiSa	MoAp	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa	UmVi	UsMa
+HG_10600 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	PhCo	PlOs	PuSt
+HG_5983 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MaJa	MiSa	MoAp	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	SpRe	UsMa
+HG_4970 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MeLa	MiSa	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	TaDe	TeBo	TiNi	TrAs	TuMe	UmVi
+HG_23 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaPf	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TrAs	TuMe	UmVi
+HG_7871 	AbBi	AsNi	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	ToAg	TrAs	UmVi
+HG_3218 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_6600 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	KaPf	LiKo	PeCa	PhCo	PlOs	RhCo	SeLi	SpBr	TrAs
+HG_4480 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa
+HG_4222 	AbBi	AlAf	AmRe	AsNi	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExVi	GaLe	GeCa	KaBr	LaNo	LiCh	MiSa	MoAp	MoSn	NaAn	NeIr	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	UmVi	UsMa
+HG_10208 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	PrLa	TaDe	UmVi
+HG_4892 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MiSa	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PyTe	RhCo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_7488 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa	UsMa
+HG_11278 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_6346 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GlCe	KaBr	MeLa	MiSa	MoAp	PhCo	PlOs	PnCa	PnJi	PuSt	RhDi	RhPa	RhTo	ScCr	ScOc	ScOs	ScPo	SpRe	TiWa	ToAg	UsMa
+HG_5286 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	LiCh	LiKo	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi
+HG_4490 	AbBi	AlAf	AmRe	AuPu	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MeLa	MiSa	MoSn	NeCr	NeIr	PeCa	PeEc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhPa	RhTo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_5204 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MiSa	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PyTe	RhCo	ScPo	SeLi	SpBr	SpLa	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_3986 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UsMa	YaLi
+HG_8099 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	MiSa	PhCo	PlOs	RhDi	RhPa	RhTo	UmVi
+HG_7906 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_6629 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe	UsMa
+HG_4773 	AbBi	AcIn	AlAf	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeIr	PeEc	PhCo	PlOs	PnCa	PnJi	PrLa	SaCe	SaSe	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	TuMe	UmVi	UsMa	YaLi
+HG_4861 	AbBi	AmRe	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaPf	MoSn	NeCr	PeCa	PeEc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	TeBo	TiNi	TrAs
+HG_7328 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	MiSa	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	UmVi
+HG_4025 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	MaJa	MaRe	MaSy	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_3609 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4783 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	ScCr	ScOc	ScOs	ScPo	SeLi	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4654 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	MoAp	MoSn	NeCr	PeCa	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	SeLi	SpBr	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UsMa
+HG_3600 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa
+HG_388 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs
+HG_4381 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExVi	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MiSa	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_3965 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MeLa	MiSa	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_4252 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_3836 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MeLa	MiSa	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_4535 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExVi	GaLe	GeCa	KaPf	LaNo	LiCh	LiKo	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_52 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SaCe	SaSe	SeLi	SpBr	SpLa	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_8449 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa
+HG_10698 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	TiWa	UmVi
+HG_9236 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	TiWa
+HG_781 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	GaLe	NeCr	PhCo	PlOs	PyTe	RhCo	SeLi	TrAs
+HG_11286 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_4133 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4045 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_75 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	NeCr	PhCo	PlOs
+HG_855 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GeCa	MeLa	MiSa	MoSn	PeCa	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	SpBr	TrAs	UmVi
+HG_9519 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo
+HG_4369 	AbBi	AcIn	AlAf	AmRe	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GlCe	KaBr	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeEc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	SpLa	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_3661 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	KaPf	PeEc	PhCo	PlOs	PrLa	RhPa	RhTo	SpLa	TeBo	TiNi
+HG_93 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GlCe	MeLa	NeCr	PeCa	PhCo	PlOs	PyTe	RhCo	SeLi	TiWa	TrAs	UmVi
+HG_6386 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GeCa	KaPf	MeLa	MiSa	MoSn	PeEc	PhCo	PlOs	PuSt	PyTe	RhDi	RhGr	RhPa	RhTo	ScCr	ScOc	ScOs	ScPo	SpBr	TeBo	TiNi	TuMe	UmVi
+HG_9199 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhPa	RhTo
+HG_6345 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe	UsMa
+HG_5590 	AbBi	AcIn	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	PeCa	PeUc	PhCo	PlOs	PuSt	PyTe	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa	TrAs	UsMa
+HG_9246 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_4360 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	LiCh	LiKo	MeLa	MoAp	MoSn	PeCa	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TaDe	TiWa	ToAg	TrAs	UsMa
+HG_4272 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	GaLe	GeCa	KaBr	KaPf	LaNo	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	SaCe	SaSe	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	UmVi	UsMa
+HG_267 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	LiKo	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	RhPa	SeLi	SpLa	TiWa	TrAs	UmVi
+HG_7905 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MiSa	MoAp	PhCo	PlOs	RhDi	RhPa	RhTo	SpRe	UsMa
+HG_11965 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	NeIr	PhCo	PlOs
+HG_6933 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa	UsMa
+HG_6160 	AbBi	AsNi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GeCa	GlCe	KaPf	LiCh	LiKo	MeLa	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	SpBr	SpLa	TeBo	TiNi	TrAs	UmVi	YaLi
+HG_4379 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExVi	GaLe	GeCa	KaPf	LaNo	LiCh	LiKo	MaJa	MiSa	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_3630 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MeLa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_7456 	AbBi	AlAf	AsNi	BoEd	CaAl	CaCo	CaVi	DaQu	GaLe	GlCe	LiKo	NaAn	PeCa	PhCo	PlOs	SaCe	SaSe	SpLa	ToAg	TrAs
+HG_1808 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa
+HG_10703 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_10260 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs
+HG_6170 	AbBi	AmRe	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	MeLa	MoSn	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	SeLi	SpBr	TrAs	TuMe
+HG_6509 	AbBi	AlAf	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	GaLe	GlCe	LaNo	LiCh	LiKo	MeLa	MiSa	NaAn	NeIr	PhCo	PlOs	PrLa	PuSt	RhDi	RhPa	RhTo	SaCe	SaSe	TaDe
+HG_7013 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GlCe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	SpRe	TiWa
+HG_7683 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_4389 	AbBi	AlAf	AmRe	AsNi	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	GaLe	GeCa	KaPf	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	SeLi	SpBr	TeBo	TiNi	TrAs	UmVi
+HG_3552 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_5047 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GeCa	KaPf	MeLa	MoSn	NeCr	PeEc	PhCo	PlOs	PuSt	PyTe	RhCo	SpBr	TeBo	TiNi	TuMe
+HG_5006 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	MeLa	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	SeLi	TeBo	TiNi	TuMe
+HG_4075 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	KaBr	KaPf	MeLa	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	SpRe	TiNi	TrAs	UmVi	UsMa
+HG_9854 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo
+HG_63 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LiKo	MeLa	MiSa	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TaDe	TiWa	ToAg	TrAs	TuMe	UsMa
+HG_4487 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa
+HG_4317 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_11978 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	PuSt
+HG_6680 	AbBi	AcIn	AlAf	BoEd	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	GaLe	LaNo	MeLa	MiSa	NaAn	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	SaCe	SpLa	TiWa	ToAg	YaLi
+HG_915 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	MeLa	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	SeLi	SpBr	SpRe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi	UsMa
+HG_5233 	AbBi	AcIn	AsNi	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	KaBr	MoAp	NeCr	PeCa	PeUc	PhCo	PlOs	RhCo	SeLi	SpRe	TaDe	TiWa	TrAs	UsMa
+HG_376 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	LiCh	LiKo	MeLa	MiSa	NeCr	NeIr	PeCa	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpLa	TaDe	TeBo	TiNi
+HG_3974 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_4044 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_7033 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	PrLa
+HG_130 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	GaLe	GeCa	KaBr	KaPf	LaNo	LiCh	LiKo	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PyTe	RhCo	RhDi	RhPa	RhTo	SaCe	SaSe	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_11973 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs
+HG_10442 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_4956 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	LiCh	LiKo	MeLa	MiSa	MoSn	NaAn	NeCr	PeCa	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaSe	SeLi	SpBr	SpLa	ToAg	TrAs	YaLi
+HG_786 	AbBi	AcIn	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NeCr	PeCa	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	SpRe	TaDe	TiWa	TrAs	UsMa
+HG_1241 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_10939 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	TiWa
+HG_11271 	AbBi	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	PhCo	PlOs
+HG_843 	AbBi	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GeCa	GlCe	KaBr	MeLa	MoAp	NeCr	PeCa	PeUc	PhCo	PlOs	PrLa	PuSt	PyTe	RhCo	RhTo	SeLi	SpRe	TaDe	TrAs	UmVi	UsMa
+HG_4208 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TiNi	TiWa	TuMe	UmVi	UsMa	YaLi
+HG_5341 	AbBi	AcIn	AmRe	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GeCa	KaPf	MeLa	MiSa	MoSn	NeCr	PeCa	PeEc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	TaDe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi
+HG_4837 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaPf	MaJa	MaRe	MaSy	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PyTe	RhCo	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TeBo	TiNi	TrAs	TuMe	UmVi	YaLi
+HG_6813 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GeCa	KaPf	MeLa	MoSn	PhCo	PlOs	PrLa	RhDi	RhGr	RhPa	RhTo	TaDe	TeBo	TiNi	TiWa
+HG_5577 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_8478 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_7770 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GlCe	KaBr	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	SpRe	TiWa	UmVi	UsMa
+HG_721 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	PhCo	PlOs	PuSt
+HG_3463 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_11932 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	PrLa
+HG_8978 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	RhDi
+HG_1003 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	KaBr	KaPf	MaJa	MaRe	MaSy	MoAp	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	SeLi	SpBr	SpRe	TeBo	TiNi	TiWa	TrAs	TuMe	UmVi	UsMa
+HG_8164 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_6688 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	SpRe	TiWa	UsMa
+HG_74 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	GeCa	KaPf	LiCh	LiKo	MoSn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PyTe	RhCo	RhDi	RhPa	RhTo	ScCr	ScOs	ScPo	SeLi	SpBr	TeBo	TiNi	ToAg	TrAs	TuMe	YaLi
+HG_9853 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo
+HG_8711 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	MoAp	NeIr	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	UmVi
+HG_3690 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MeLa	MiSa	MoAp	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	UsMa	YaLi
+HG_10268 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_7475 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GlCe	MeLa	MiSa	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo	UmVi
+HG_11284 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GlCe	PhCo	PlOs	UmVi
+HG_7299 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	KaBr	MeLa	MiSa	MoAp	PhCo	PlOs	PuSt	RhDi	RhPa	RhTo	SpRe	UsMa
+HG_97 	AbBi	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	LaNo	LiKo	MiSa	NaAn	NeCr	PeCa	PeUc	PhCo	PlOs	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpLa	ToAg	TrAs	YaLi
+HG_1054 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	GaLe	MiSa	PhCo	PlOs	RhDi	RhGr	RhPa	RhTo	TiWa
+HG_8174 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	KaBr	MoAp	PhCo	PlOs	SpRe	TiWa	UsMa
+HG_10691 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PhCo	PlOs	UmVi
+HG_6616 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	GlCe	KaBr	MaJa	MaRe	MaSy	MoAp	NeIr	PhCo	PlOs	PnJi	PrLa	ScCr	ScOc	ScOs	ScPo	SpRe	TaDe	TiWa	UmVi
+HG_5468 	AbBi	AmRe	AsNi	AuPu	AuTh	BoEd	CaCo	CaVi	DaQu	ExVi	GaLe	GeCa	GlCe	KaPf	MiSa	MoSn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SeLi	SpBr	TaDe	TeBo	TiNi	TrAs	TuMe	UmVi
+HG_11963 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	PeCa	PhCo	PlOs
+HG_4326 	AbBi	AcIn	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_6167 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	GlCe	KaBr	KaPf	LiCh	LiKo	MoAp	MoSn	PeEc	PhCo	PlOs	PrLa	RhDi	RhGr	RhPa	ScCr	ScOc	ScOs	SpRe	TaDe	TeBo	TiNi	TiWa	UmVi	UsMa
+HG_5371 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExVi	GaLe	GeCa	GlCe	LaNo	LiCh	LiKo	MoSn	NaAn	NeCr	NeIr	PeCa	PeUc	PhCo	PlOs	PyTe	RhCo	SaCe	SaSe	SeLi	SpBr	SpLa	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_7985 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	KaBr	MiSa	MoAp	PhCo	PlOs	PuSt	RhPa	RhTo	SpRe	TiWa	UmVi	UsMa
+HG_7171 	AbBi	AcIn	BoEd	CaCo	CaVi	DaQu	ExRh	ExVi	GaLe	MaJa	MiSa	PhCo	PlOs	PyTe	RhDi	RhGr	RhPa	RhTo	SeLi	TiWa	UmVi
+HG_6796 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	GlCe	KaBr	MeLa	MoAp	NeIr	PhCo	PlOs	PuSt	SpRe	TiWa	UmVi	UsMa
+HG_7 	AbBi	AcIn	BoEd	CaCo	CaVi	CrQu	DaQu	ExRh	GaLe	MeLa	MiSa	NeIr	PhCo	PlOs	PuSt	RhDi	RhGr	RhPa	RhTo
+HG_21 	AbBi	BoEd	CaCo	CaVi	DaQu	GaLe	GeCa	GlCe	KaPf	MoSn	PeEc	PhCo	PlOs	SpBr	TeBo	TiNi
+HG_8467 	AbBi	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	MeLa	MiSa	PhCo	PlOs	PrLa	PuSt	RhPa	RhTo	TaDe
+HG_421 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	CrQu	DaQu	DeUd	ExVi	GaLe	GeCa	GlCe	KaPf	LaNo	LiCh	LiKo	MeLa	MiSa	MoSn	NaAn	NeCr	NeIr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PuSt	PyTe	RhCo	RhDi	RhGr	RhPa	RhTo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	TaDe	TeBo	TiNi	ToAg	TrAs	TuMe	UmVi	YaLi
+HG_315 	AbBi	AmRe	AsNi	AuTh	BoEd	CaCo	CaVi	CrQu	DaQu	GaLe	GeCa	MoSn	NeCr	NeIr	PeCa	PeUc	PhCo	PlOs	PyTe	SeLi	SpBr	TrAs
+HG_4748 	AbBi	AcIn	AmRe	AsNi	AuTh	BoEd	CaCo	CaVi	DaQu	ExRh	GaLe	GlCe	KaBr	MaJa	MaRe	MaSy	MiSa	MoAp	PeUc	PhCo	PlOs	PrLa	RhCo	RhDi	RhGr	RhPa	RhTo	SpRe	TaDe	TrAs	UmVi	UsMa
+HG_4192 	AbBi	AlAf	AmRe	AsNi	AuMe	AuPu	AuTh	BoEd	CaAl	CaCo	CaVi	DaQu	DeUd	ExRh	ExVi	GaLe	GeCa	KaBr	KaPf	LaNo	LiCh	LiKo	MaJa	MaRe	MaSy	MoAp	MoSn	NaAn	NeCr	PeCa	PeEc	PeUc	PhCo	PlOs	PnCa	PnJi	PrLa	PyTe	RhCo	SaCe	SaSe	ScCr	ScOc	ScOs	ScPo	SeLi	SpBr	SpLa	SpRe	TaDe	TeBo	TiNi	TiWa	ToAg	TrAs	TuMe	UsMa	YaLi

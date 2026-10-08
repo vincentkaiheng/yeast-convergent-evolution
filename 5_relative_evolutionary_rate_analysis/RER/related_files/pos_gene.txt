@@ -1,0 +1,278 @@
+Gene	Description	Name	PFAM
+aligned_OG0000001_pruned_2	Methyltransferase domain	-	Methyltransf_23,Methyltransf_25
+aligned_OG0000029_pruned_2	Splits internally a 1,3-beta-glucan molecule and transfers the newly generated reducing end (the donor) to the non- reducing end of another 1,3-beta-glucan molecule (the acceptor) forming a 1,3-beta linkage, resulting in the elongation of 1,3- beta-glucan chains in the cell wall	GAS4	Glyco_hydro_72
+aligned_OG0000041_pruned	-	-	Cu_bind_like
+aligned_OG0000075_pruned_3	EXOIII	-	RNase_T
+aligned_OG0000189_pruned	choline transport protein	HNM1	AA_permease_2
+aligned_OG0000202_pruned_1	zinc- finger protein	-	Fungal_trans,zf-C2H2
+aligned_OG0000236_pruned_1	Voltage gated chloride channel	-	Voltage_CLC
+aligned_OG0000239_pruned_1	Acyltransferase C-terminus	-	Acyltransf_C,Acyltransferase
+aligned_OG0000339_pruned	methionine permease	-	AA_permease_2
+aligned_OG0000349_pruned	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain	ARO80	Zn_clus
+aligned_OG0000386_pruned_1	Meiotic cell cortex C-terminal pleckstrin homology	-	Mcp5_PH
+aligned_OG0000411_pruned_1	Sel1-like repeats.	-	Sel1
+aligned_OG0000417_pruned	hydrolase family 16	-	Glyco_hydro_16
+aligned_OG0000459_pruned_1	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family	-	DUF3694,FHA,KIF1B,Kinesin,Kinesin_assoc,PH
+aligned_OG0000459_pruned_2	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family	-	Kinesin
+aligned_OG0000470_pruned_3	Belongs to the protein kinase superfamily	CKA2	Pkinase
+aligned_OG0000475_pruned_1	Glycoside hydrolase family 35 protein	-	BetaGal_dom2,BetaGal_dom3,BetaGal_dom4_5,Glyco_hydro_35
+aligned_OG0000490_pruned_2	Zinc knuckle	-	RRM_1,zf-CCHC
+aligned_OG0000512_pruned_2	ubiquitin--protein ligase	UBR1	ClpS,zf-UBR
+aligned_OG0000513_pruned_3	Cytoplasm to vacuole targeting vps64	-	FHA
+aligned_OG0000565_pruned_3	RING finger protein	-	IBR
+aligned_OG0000616_pruned_2	Aldehyde dehydrogenase family	PUT2	Aldedh
+aligned_OG0000649_pruned_1	Belongs to the short-chain dehydrogenases reductases (SDR) family	-	adh_short
+aligned_OG0000711_pruned	3'-5'-exoribonuclease that specifically recognizes RNAs polyuridylated at their 3' end and mediates their degradation. Component of an exosome-independent RNA degradation pathway that mediates degradation of cytoplasmic mRNAs that have been deadenylated and subsequently uridylated at their 3'	SSD1	RNB,Rrp44_CSD1
+aligned_OG0000721_pruned_1	Belongs to the small GTPase superfamily. Rho family	RHO1	Ras
+aligned_OG0000817_pruned_1	Eps15 homology domain	-	EF-hand_4,UBA
+aligned_OG0000832_pruned_3	Insulinase (Peptidase family M16)	MAS1	Peptidase_M16,Peptidase_M16_C
+aligned_OG0000841_pruned_1	Homeodomain	-	Homeobox
+aligned_OG0000867_pruned_3	Munc13 (mammalian uncoordinated) homology domain	-	C2,DUF810,Membr_traf_MHD
+aligned_OG0000880_pruned_3	Rhodanese Homology Domain	-	Rhodanese
+aligned_OG0000888_pruned_1	R3H domain	PIN4	R3H,RRM_1
+aligned_OG0000920_pruned	Pleckstrin homology domain	-	PH_9,Sec7
+aligned_OG0001007_pruned_2	Endonuclease/Exonuclease/phosphatase family	CCR4	Exo_endo_phos,LRR_4,LRR_8
+aligned_OG0001014_pruned_2	PGAP1-like protein	BST1	PGAP1
+aligned_OG0001047_pruned	Domain Homologous to E6-AP Carboxyl Terminus with	UFD4	HECT
+aligned_OG0001063_pruned_2	Belongs to the histidine acid phosphatase family	-	His_Phos_2
+aligned_OG0001071_pruned	-	-	-
+aligned_OG0001077_pruned_2	PX-associated	-	DUF3818,PX,PXB
+aligned_OG0001093_pruned_2	Endoplasmic Reticulum Oxidoreductin 1 (ERO1)	ERO1	ERO1
+aligned_OG0001102_pruned	Belongs to the eukaryotic ribosomal protein eS12 family	RPS12	Ribosomal_L7Ae
+aligned_OG0001111_pruned_1	Neutral trehalase Ca2+ binding domain	NTH1	Trehalase,Trehalase_Ca-bi
+aligned_OG0001132_pruned	Protein kinase domain	VPS15	HEAT,Pkinase,WD40
+aligned_OG0001152_pruned_1	Type IIB DNA topoisomerase	SPO11	TP6A_N
+aligned_OG0001161_pruned	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family	MYO1	Myosin_N,Myosin_head,Myosin_tail_1
+aligned_OG0001186_pruned	Dopey, N-terminal	-	Dopey_N
+aligned_OG0001192_pruned	Belongs to the universal ribosomal protein uS19 family	RPS15	Ribosomal_S19
+aligned_OG0001216_pruned_2	Domain in Tre-2, BUB2p, and Cdc16p. Probable Rab-GAPs.	GYP2	GRAM,RabGAP-TBC
+aligned_OG0001245_pruned_2	Belongs to the DEAD box helicase family	DBP2	DEAD,Helicase_C
+aligned_OG0001350_pruned	GAT domain	-	GAT,SH3_1,SH3_2,SH3_9,VHS
+aligned_OG0001416_pruned	GGL domain	-	G-gamma
+aligned_OG0001460_pruned_1	Phosphoglycerate mutase family	-	His_Phos_1
+aligned_OG0001467_pruned_2	HAT (Half-A-TPR) repeats	SYF1	TPR_8
+aligned_OG0001516_pruned	Endonuclease/Exonuclease/phosphatase family	APN2	Exo_endo_phos,zf-GRF
+aligned_OG0001553_pruned	helicase superfamily c-terminal domain	FAL1	DEAD,Helicase_C
+aligned_OG0001563_pruned	Belongs to the adaptor complexes small subunit family	-	Clat_adaptor_s
+aligned_OG0001588_pruned_2	transcription initiation factor IIF subunit alpha	TFG1	TFIIF_alpha
+aligned_OG0001609_pruned_1	snRNP Sm proteins	-	LSM
+aligned_OG0001623_pruned	Pre-mRNA-splicing factor SF3a complex subunit 2 (Prp11)	sap62	SF3A2,zf-met
+aligned_OG0001640_pruned_2	TATA-binding protein interacting (TIP20)	TIP120	TIP120
+aligned_OG0001718_pruned_1	kinase GCN2	GCN2	HGTP_anticodon2,Pkinase,RWD,tRNA-synt_His
+aligned_OG0001724_pruned	Cwf15/Cwc15 cell cycle control protein	CWC15	Cwf_Cwc_15
+aligned_OG0001740_pruned	Pre-mRNA splicing Prp18-interacting factor	SLU7	Slu7
+aligned_OG0001752_pruned	Belongs to the adaptor complexes medium subunit family	APM4	Adap_comp_sub,Clat_adaptor_s
+aligned_OG0001772_pruned	Adaptins are components of the adaptor complexes which link clathrin to receptors in coated vesicles. Clathrin-associated protein complexes are believed to interact with the cytoplasmic tails of membrane proteins, leading to their selection and concentration	-	Adaptin_N
+aligned_OG0001792_pruned	Striatin family	ADI1	Striatin,WD40
+aligned_OG0001793_pruned	Catalyzes the rate-limiting step of the oxidative pentose-phosphate pathway, which represents a route for the dissimilation of carbohydrates besides glycolysis	ZWF1	G6PD_C,G6PD_N
+aligned_OG0001802_pruned_1	Dynein light intermediate chain (DLIC)	-	DLIC
+aligned_OG0001802_pruned_2	Dynein light intermediate chain (DLIC)	-	DLIC
+aligned_OG0001807_pruned_1	Aminotransferase class-V	-	Aminotran_5
+aligned_OG0001808_pruned	Steroid receptor RNA activator (SRA1)	SEC31	SRA1,Sec16_C,Sec31,WD40
+aligned_OG0001867_pruned_2	High-temperature-induced dauer-formation protein	-	Hid1
+aligned_OG0001879_pruned_1	amino-acid N-acetyltransferase subunit Mak10	MAK10	Mak10
+aligned_OG0001896_pruned	Docking domain of Afi1 for Arf3 in vesicle trafficking	-	Afi1,SPA
+aligned_OG0001920_pruned_2	Proteasome/cyclosome repeat	RPN2	HEAT_2,PC_rep
+aligned_OG0001934_pruned	PWI domain	-	PWI,RRM_1
+aligned_OG0001957_pruned	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family	-	DUF465,Kinesin
+aligned_OG0001997_pruned	Vps16, C-terminal region	vps16	Vps16_C,Vps16_N
+aligned_OG0002039_pruned_1	Snf7	DID4	Snf7
+aligned_OG0002052_pruned_2	Belongs to the adaptor complexes medium subunit family	-	Adap_comp_sub,Clat_adaptor_s
+aligned_OG0002059_pruned_1	Rab subfamily of small GTPases	YPT52	Ras
+aligned_OG0002061_pruned	RNA recognition motif	-	RRM_1
+aligned_OG0002101_pruned_1	Eukaryotic membrane protein family	-	DUF747
+aligned_OG0002109_pruned	Up-frameshift suppressor 2	NMD2	MIF4G,Upf2
+aligned_OG0002112_pruned	PRP1 splicing factor, N-terminal	prp1	PRP1_N,TPR_14,TPR_16,TPR_19,TPR_8
+aligned_OG0002125_pruned	Belongs to the STXBP unc-18 SEC1 family	VPS33	Sec1
+aligned_OG0002169_pruned_2	DNA-directed RNA-polymerase II subunit	RPB4	RNA_pol_Rpb4
+aligned_OG0002201_pruned	Poly(A) polymerase	PAP1	NTP_transf_2,PAP_RNA-bind,PAP_central
+aligned_OG0002214_pruned_1	CAP_GLY	-	CAP_GLY,CLIP1_ZNF
+aligned_OG0002274_pruned	Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin- like GTPase superfamily. Septin GTPase family	CDC3	Septin
+aligned_OG0002279_pruned	Vps52 / Sac2 family	VPS52	Vps52
+aligned_OG0002290_pruned	Exocyst complex component Sec5	SEC5	Sec5
+aligned_OG0002301_pruned	FF domain	PRP40	FF,WW
+aligned_OG0002369_pruned_2	SNARE domain	-	SNARE
+aligned_OG0002400_pruned_3	Acyl CoA binding protein	-	ACBP
+aligned_OG0002454_pruned_2	Belongs to the DEAD box helicase family	DHH1	DEAD,Helicase_C
+aligned_OG0002489_pruned	Belongs to the DEAD box helicase family	PRP28	DEAD,Helicase_C
+aligned_OG0002516_pruned	Belongs to the STXBP unc-18 SEC1 family	VPS45	Sec1
+aligned_OG0002568_pruned	116 kDa U5 small nuclear ribonucleoprotein component N-terminus	SNU114	EFG_C,EFG_II,EFG_IV,EFTUD2,GTP_EFTU,GTP_EFTU_D2
+aligned_OG0002571_pruned	Autophagy protein Apg6	atg6	APG6
+aligned_OG0002575_pruned_1	Demethylates proteins that have been reversibly carboxymethylated	PPE1	Abhydrolase_6,Hydrolase_4
+aligned_OG0002602_pruned_1	BRO1-like domain	BRO1	ALIX_LYPXL_bnd,BRO1
+aligned_OG0002671_pruned_1	CT11-RanBPM	-	CLTH,LisH
+aligned_OG0002762_pruned	Serine/Threonine protein kinases, catalytic domain	-	Pkinase
+aligned_OG0002773_pruned	Adaptins are components of the adaptor complexes which link clathrin to receptors in coated vesicles. Clathrin-associated protein complexes are believed to interact with the cytoplasmic tails of membrane proteins, leading to their selection and concentration	APL2	Adaptin_N
+aligned_OG0002788_pruned_1	Secretory pathway protein Sec39	-	Nbas_N,Sec39
+aligned_OG0002793_pruned	Zn-finger in ubiquitin-hydrolases and other protein	ubp10	UCH,zf-UBP
+aligned_OG0002821_pruned_2	RING finger membrane protein	-	RINGv
+aligned_OG0002832_pruned	Adaptin C-terminal domain	APL4	Adaptin_N,Alpha_adaptinC2
+aligned_OG0002837_pruned	The EMC seems to be required for efficient folding of proteins in the endoplasmic reticulum (ER)	-	DUF106
+aligned_OG0002843_pruned	Glucosidase II beta subunit-like protein	YOS9	PRKCSH
+aligned_OG0002849_pruned	Component of the post-replicative DNA mismatch repair system (MMR)	msh2	MutS_I,MutS_II,MutS_III,MutS_IV,MutS_V
+aligned_OG0002863_pruned_2	helix loop helix domain	CBF1	HLH
+aligned_OG0002863_pruned_3	helix loop helix domain	CBF1	HLH
+aligned_OG0002911_pruned	Yeast cortical protein KAR9	-	GAS2,KAR9
+aligned_OG0002959_pruned	Adaptins are components of the adaptor complexes which link clathrin to receptors in coated vesicles. Clathrin-associated protein complexes are believed to interact with the cytoplasmic tails of membrane proteins, leading to their selection and concentration	-	Adaptin_N,Alpha_adaptinC2,Alpha_adaptin_C
+aligned_OG0002968_pruned_2	-	-	Smr
+aligned_OG0002970_pruned	U2 snRNP auxiliary factor large subunit	-	RRM_1
+aligned_OG0003009_pruned	WD domain, G-beta repeat	STE4	WD40
+aligned_OG0003042_pruned	Nse1 non-SMC component of SMC5-6 complex	-	SMC_Nse1,zf-RING-like
+aligned_OG0003064_pruned_1	Chitin synthase	-	Chitin_synth_1,Chitin_synth_1N
+aligned_OG0003082_pruned	PCI/PINT associated module	csnB	PCI
+aligned_OG0003137_pruned	Helicase associated domain (HA2)  Add an annotation	PRP22	AAA_22,DEAD,HA2,Helicase_C,OB_NTP_bind,S1
+aligned_OG0003150_pruned	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)	PUB1	RRM_1
+aligned_OG0003173_pruned_1	Glycosyl hydrolase family 63 N-terminal domain	CWH41	Glyco_hydro_63,Glyco_hydro_63N
+aligned_OG0003183_pruned	C2H2 finger domain protein	-	Fungal_trans,zf-C2H2
+aligned_OG0003228_pruned_1	Thioredoxin-like [2Fe-2S] ferredoxin	NUO24	2Fe-2S_thioredx
+aligned_OG0003233_pruned_1	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family	-	Kinesin
+aligned_OG0003258_pruned	WD domain, G-beta repeat	creC	WD40
+aligned_OG0003263_pruned	Protein of unknown function (DUF2433)	-	DUF2433,Metallophos,RRM_1
+aligned_OG0003277_pruned	Enoyl-CoA hydratase/isomerase	-	ECH_1
+aligned_OG0003289_pruned_1	Domain of Unknown Function (DUF913)	TOM1	DUF4414,DUF908,DUF913,HECT,UBA
+aligned_OG0003307_pruned	Dynactin p62 family	-	Dynactin_p62
+aligned_OG0003347_pruned_2	Triose-phosphate Transporter family	-	TPT
+aligned_OG0003355_pruned	Conserved mid region of cactin	-	CactinC_cactus,Cactin_mid
+aligned_OG0003359_pruned	RIC1	RIC1	RIC1
+aligned_OG0003387_pruned	chitin synthase activator	-	Sel1
+aligned_OG0003411_pruned_1	PCI domain	-	PCI
+aligned_OG0003445_pruned	Belongs to the DOCK family	DCK1	DHR-2,DOCK-C2,DOCK_N,SH3_1
+aligned_OG0003471_pruned_3	Pex2 / Pex12 amino terminal region	PEX12	Pex2_Pex12,zf-C3HC4_3
+aligned_OG0003472_pruned	Eukaryotic domain of unknown function (DUF1716)	-	CTNNBL
+aligned_OG0003498_pruned_1	ABC transporter transmembrane region 2	PXA2	ABC_membrane_2,ABC_tran
+aligned_OG0003527_pruned	WD domain, G-beta repeat	-	F-box-like,WD40
+aligned_OG0003569_pruned_1	Nuclear distribution protein NUDE	NDE1	NUDE_C
+aligned_OG0003580_pruned_1	female pronucleus assembly	-	-
+aligned_OG0003596_pruned_1	Kinase-like	IPL1	Pkinase
+aligned_OG0003629_pruned_1	Pumilio-like repeats	mpf1	PUF
+aligned_OG0003658_pruned_2	glycine rich nucleic binding domain	-	G-patch,RRM_1,zf-RanBP
+aligned_OG0003664_pruned	Zinc finger, C2H2 type	-	zf-C2H2
+aligned_OG0003686_pruned	Hydrolase	-	Abhydrolase_1,Abhydrolase_6
+aligned_OG0003688_pruned	Divergent CRAL/TRIO domain	-	CRAL_TRIO_2,RhoGAP
+aligned_OG0003711_pruned_1	HOOK protein	-	HOOK
+aligned_OG0003723_pruned	Protein of unknown function (DUF1604)	-	DUF1604,G-patch
+aligned_OG0003725_pruned_1	Chromatin modification-related protein EAF7	-	Eaf7
+aligned_OG0003786_pruned	motif in proteasome subunits, Int-6, Nip-1 and TRIP-15	-	PCI
+aligned_OG0003843_pruned_2	WD domain, G-beta repeat	rec14	Ribosomal_L32p,WD40
+aligned_OG0003914_pruned_2	dynactin	-	CAP_GLY,Dynactin
+aligned_OG0003929_pruned_1	YT521-B-like domain	-	YTH
+aligned_OG0003960_pruned	Kinase phosphorylation protein	-	MMtag
+aligned_OG0003983_pruned	ELMO/CED-12 family	-	DUF3361,ELMO_CED12,PH_12
+aligned_OG0003985_pruned_2	2-methylcitrate dehydratase	PDH1	MmgE_PrpD
+aligned_OG0004021_pruned_1	Catalyzes the dehydration of methylthioribulose-1- phosphate (MTRu-1-P) into 2,3-diketo-5-methylthiopentyl-1- phosphate (DK-MTP-1-P)	MDE1	Aldolase_II
+aligned_OG0004050_pruned	mRNA-binding protein involved in proper cytoplasmic distribution of mitochondria	CLU1	CLU,CLU_N,DUF727,TPR_10,TPR_12,eIF3_p135
+aligned_OG0004139_pruned_2	Fasciclin domain	-	Fasciclin
+aligned_OG0004156_pruned	RRM domain-containing protein	-	RRM_1
+aligned_OG0004182_pruned	Nucleotide hydrolase	-	NUDIX_2
+aligned_OG0004198_pruned	Mob1/phocein family	-	Mob1_phocein
+aligned_OG0004212_pruned	Retinoic acid induced 16-like protein	-	RAI16-like
+aligned_OG0004277_pruned_1	RNI-like protein	-	F-box-like,LRR_6
+aligned_OG0004281_pruned	Rsm1-like	-	Rsm1,zf-C3HC
+aligned_OG0004335_pruned	Belongs to the class I-like SAM-binding methyltransferase superfamily. C5-methyltransferase family	-	BAH,DNA_methylase,DNMT1-RFD
+aligned_OG0004336_pruned	SNF2 family N-terminal domain	-	DNA_methylase,Helicase_C,SNF2_N
+aligned_OG0004402_pruned_1	Yippee zinc-binding/DNA-binding /Mis18, centromere assembly	-	Yippee-Mis18
+aligned_OG0004411_pruned	Fungal specific transcription factor domain	-	Fungal_trans,Zn_clus
+aligned_OG0004426_pruned_1	Ankyrin repeats (many copies)	AVO2	Ank,Ank_2,Ank_4
+aligned_OG0004473_pruned	SWIRM domain	-	SWIRM
+aligned_OG0004474_pruned	-	-	-
+aligned_OG0004527_pruned	Protein of unknown function (DUF1349)	-	DUF1349
+aligned_OG0004547_pruned	)transporter	TPO4	MFS_1
+aligned_OG0004578_pruned	Protein of unknown function (DUF974)	-	DUF974
+aligned_OG0004620_pruned	Domain found in a variety of signalling proteins, always encircled by uDENN and dDENN	-	DENN,uDENN
+aligned_OG0004621_pruned	regulation of kinetochore assembly	-	TPR_19
+aligned_OG0004641_pruned	Bladder cancer-related protein BC10	-	BC10
+aligned_OG0004741_pruned	-	-	-
+aligned_OG0004791_pruned	Sugar (and other) transporter	-	MFS_1
+aligned_OG0004793_pruned	PB1 domain	-	PB1,TPR_1,TPR_2,TPR_8
+aligned_OG0004831_pruned_1	Spc97 / Spc98 family	-	Spc97_Spc98
+aligned_OG0004831_pruned_2	spindle pole body component	-	Spc97_Spc98
+aligned_OG0004879_pruned	Specifically deglycosylates the denatured form of N- linked glycoproteins in the cytoplasm and assists their proteasome-mediated degradation. Cleaves the beta-aspartyl- glucosamine (GlcNAc) of the glycan and the amide side chain of Asn, converting Asn to Asp. Prefers proteins containing high- mannose over those bearing complex type oligosaccharides. Can recognize misfolded proteins in the endoplasmic reticulum that are exported to the cytosol to be destroyed and deglycosylate them, while it has no activity toward native proteins. Deglycosylation is a prerequisite for subsequent proteasome-mediated degradation of some, but not all, misfolded glycoproteins (By similarity)	png1	Rad4,Transglut_core
+aligned_OG0004895_pruned	Phosphate acyltransferases	-	Acyltransferase
+aligned_OG0005087_pruned_2	Leucine-rich repeat protein	-	LRR_4,LRR_6,LRR_8
+aligned_OG0005130_pruned_2	Intron-binding protein aquarius N-terminus	-	AAA_11,AAA_12,Aquarius_N
+aligned_OG0005147_pruned	TATA element modulatory factor 1 DNA binding	-	TMF_DNA_bd,TMF_TATA_bd
+aligned_OG0005200_pruned_1	Protoglobin	-	Protoglobin
+aligned_OG0005211_pruned	Involved in ubiquitin-mediated protein degradation. Regulatory factor in the ubiquitin proteasome pathway that controls the turnover of proteasome substrates. Targets proteasomes to the nucleus and facilitates the degradation of nuclear proteins	STS1	Cut8
+aligned_OG0005275_pruned	Glucosamine-6-phosphate isomerases/6-phosphogluconolactonase	NAG1	Glucosamine_iso
+aligned_OG0005360_pruned	cytokinesis protein cyk3	-	SH3_1,SH3_2,Transglut_core
+aligned_OG0005378_pruned	Arrestin (or S-antigen), C-terminal domain	-	Arrestin_C
+aligned_OG0005526_pruned	AMP-binding enzyme	-	AMP-binding
+aligned_OG0005612_pruned	-	-	-
+aligned_OG0005635_pruned	Caffeine-induced death protein 2	-	Cid2
+aligned_OG0005641_pruned	Adenosine/AMP deaminase	-	A_deaminase
+aligned_OG0005903_pruned	RNA recognition motif	-	RRM_1
+aligned_OG0005904_pruned	Ribosomal protein L24e	-	-
+aligned_OG0005915_pruned	SET domain	-	SET
+aligned_OG0005991_pruned	Growth-Arrest-Specific Protein 2 Domain	-	GAS2
+aligned_OG0006040_pruned	Belongs to the mitochondrial carrier (TC 2.A.29) family	-	Mito_carr
+aligned_OG0006044_pruned	Signal recognition particle 9 kDa protein (SRP9)	-	SRP9-21
+aligned_OG0006138_pruned	-	-	-
+aligned_OG0006148_pruned	DNA replication regulator SLD3	-	SLD3
+aligned_OG0006181_pruned	Golgin subfamily A member 7/ERF4 family	-	Erf4
+aligned_OG0006247_pruned	-	-	-
+aligned_OG0006274_pruned	-	-	-
+aligned_OG0006295_pruned	Zinc-binding domain present in Lin-11, Isl-1, Mec-3.	-	LIM
+aligned_OG0006442_pruned	3-hydroxyacyl-CoA dehydrogenase, C-terminal domain	-	3HCDH,3HCDH_N
+aligned_OG0006451_pruned	Ribose/Galactose Isomerase	-	LacAB_rpiB
+aligned_OG0006457_pruned	-	-	-
+aligned_OG0006471_pruned	dDENN domain protein	-	C1_2,DENN,dDENN,uDENN
+aligned_OG0006627_pruned	biological adhesion	-	-
+aligned_OG0006705_pruned	-	-	-
+aligned_OG0006718_pruned	GCN5-like protein 1 (GCN5L1)	-	GCN5L1
+aligned_OG0006723_pruned	RED-like protein N-terminal region	-	RED_N
+aligned_OG0006760_pruned	Glycosyl hydrolases family 25	-	Glyco_hydro_25
+aligned_OG0006835_pruned	Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin- like GTPase superfamily. Septin GTPase family	-	Septin
+aligned_OG0006971_pruned	-	-	-
+aligned_OG0006980_pruned_2	NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase	-	NAD_binding_11,NAD_binding_2,Pre-SET,SET
+aligned_OG0006995_pruned	-	-	-
+aligned_OG0007006_pruned	Ancestral locus Anc_2.116	-	DUF2009,zf-B_box
+aligned_OG0007011_pruned	-	-	BTB
+aligned_OG0007096_pruned	Rdx family	-	-
+aligned_OG0007103_pruned	WD40 repeats	-	WD40
+aligned_OG0007265_pruned	Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin- like GTPase superfamily. Septin GTPase family	-	Septin
+aligned_OG0007310_pruned	-	-	-
+aligned_OG0007407_pruned	Peptidase family m20 m25 m40 protein	-	-
+aligned_OG0007413_pruned	Vacuolar sorting 38 and autophagy-related subunit 14	-	Atg14
+aligned_OG0007438_pruned	-	-	-
+aligned_OG0007442_pruned	-	-	-
+aligned_OG0007488_pruned	-	-	-
+aligned_OG0007556_pruned	Sodium/hydrogen exchanger family	-	Na_H_Exchanger
+aligned_OG0007621_pruned	Folliculin-interacting protein N-terminus	-	FNIP_N
+aligned_OG0007768_pruned	actin-like atpase domain-containing protein	-	FGGY_C,FGGY_N
+aligned_OG0007801_pruned	-	-	Methyltransf_11
+aligned_OG0007816_pruned	-	-	-
+aligned_OG0007821_pruned	-	-	-
+aligned_OG0007833_pruned	14-3-3 protein	-	14-3-3
+aligned_OG0007836_pruned	-	-	-
+aligned_OG0007857_pruned	Late endosomal/lysosomal adaptor and MAPK and MTOR activator	-	LAMTOR
+aligned_OG0007913_pruned	Cysteine proteinase	-	UCH,ubiquitin
+aligned_OG0007916_pruned	-	-	-
+aligned_OG0007984_pruned	FAD dependent oxidoreductase	-	DAO
+aligned_OG0008001_pruned	-	-	-
+aligned_OG0008005_pruned	pathway-specific nitrogen regulator	-	-
+aligned_OG0008006_pruned	B-zip transcription factor	-	bZIP_1,bZIP_2,bZIP_Maf
+aligned_OG0008049_pruned	-	-	-
+aligned_OG0008180_pruned	DUF636 domain-containing protein	-	GFA
+aligned_OG0008256_pruned	snRNA import into nucleus	-	Snurportin1
+aligned_OG0008347_pruned	Protein tyrosine kinase	-	Pkinase
+aligned_OG0008384_pruned	DNA replication factor Cdt1 C-terminal domain	-	CDT1_C
+aligned_OG0008417_pruned	-	-	-
+aligned_OG0008468_pruned	Septin	-	Septin
+aligned_OG0008694_pruned	SAM dependent carboxyl methyltransferase	-	Methyltransf_7
+aligned_OG0008696_pruned	Mannose-6-phosphate isomerase	-	MannoseP_isomer,NTP_transferase
+aligned_OG0008941_pruned	-	-	-
+aligned_OG0009000_pruned	to Saccharomyces cerevisiae ADD37 (YMR184W)	-	-
+aligned_OG0009133_pruned	-	-	SUZ
+aligned_OG0009145_pruned	-	-	-
+aligned_OG0009198_pruned	Med18 protein	-	Med18
+aligned_OG0009209_pruned	Potential Monad-binding region of RPAP3	-	TPR_19
+aligned_OG0009235_pruned	T-complex protein 11	-	Tcp11
+aligned_OG0009377_pruned	Polysaccharide pyruvyl transferase	-	PS_pyruv_trans
+aligned_OG0009380_pruned	-	-	-
+aligned_OG0009403_pruned	Endoribonuclease L-PSP	-	Ribonuc_L-PSP
+aligned_OG0009489_pruned	-	-	G-patch
+aligned_OG0009495_pruned	Nbl1 / Borealin N terminal	-	Borealin,Nbl1_Borealin_N
+aligned_OG0009496_pruned	Transcriptional regulator of RNA polII, SAGA, subunit	-	SAGA-Tad1
+aligned_OG0009497_pruned	IgA Peptidase M64	-	Peptidase_M64
+aligned_OG0009710_pruned	-	-	-
+aligned_OG0009832_pruned	Acetyltransferase (GNAT) domain	-	-

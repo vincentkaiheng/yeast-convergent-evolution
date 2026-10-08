@@ -1,0 +1,3 @@
+45_asco Taphrinomycotina-yeast -9/+0 -267/+4
+53 Saccharomycotina-yeast -11/+12 -745/+61
+82 Pezizomycotina_yeast -19/+20 -199/+163

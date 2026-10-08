@@ -1,0 +1,162 @@
+Gene	Description	Name	PFAM
+aligned_OG0000018_pruned_1	Putative lipopolysaccharide-modifying enzyme.	-	Glyco_transf_90
+aligned_OG0000135_pruned	BCS1_N	BCS1	AAA,BCS1_N
+aligned_OG0000148_pruned_3	Glycosyltransferase family 34 protein	-	Glyco_transf_34
+aligned_OG0000151_pruned_2	Sugar (and other) transporter	-	MFS_1,Sugar_tr
+aligned_OG0000216_pruned_1	Major Facilitator Superfamily	-	MFS_1
+aligned_OG0000235_pruned	FORKHEAD	FKH2	FHA,Forkhead
+aligned_OG0000249_pruned_2	Haloacid dehalogenase-like hydrolase	GPP1	HAD_2
+aligned_OG0000266_pruned	Glutathione S-transferase, N-terminal domain	-	GST_C_2,GST_C_3,GST_N_2,GST_N_3
+aligned_OG0000273_pruned_3	Sucrase/ferredoxin-like	-	Suc_Fer-like
+aligned_OG0000284_pruned_2	Belongs to the glycosyl hydrolase 3 family	-	Fn3-like,Glyco_hydro_3,Glyco_hydro_3_C,PA14
+aligned_OG0000331_pruned_2	Ubiquitin-2 like Rad60 SUMO-like	SMT3	Rad60-SLD
+aligned_OG0000341_pruned_1	Dak2	-	Dak1,Dak2
+aligned_OG0000341_pruned_3	Dihydroxyacetone kinase	dak1	Dak1,Dak2
+aligned_OG0000359_pruned	cytochrome p450	-	p450
+aligned_OG0000461_pruned_2	RNA recognition motif	NSR1	RRM_1
+aligned_OG0000470_pruned_2	Belongs to the protein kinase superfamily	CKA2	Pkinase
+aligned_OG0000484_pruned_4	SNF2 family N-terminal domain	RDH54	Helicase_C,SNF2_N
+aligned_OG0000486_pruned_1	Major Facilitator Superfamily	-	MFS_1
+aligned_OG0000546_pruned_1	ABC transporter transmembrane region	-	ABC_membrane,ABC_tran
+aligned_OG0000561_pruned_1	PhoX homologous domain, present in p47phox and p40phox.	BEM1	PB1,PX,SH3_1
+aligned_OG0000574_pruned_3	Glutathione S-transferase, C-terminal domain	-	GST_C_2,GST_N_2
+aligned_OG0000626_pruned_1	Serine threonine-protein kinase TOR	TOR1	DUF3385,FAT,FATC,FRB_dom,HEAT,PI3_PI4_kinase
+aligned_OG0000632_pruned_1	Belongs to the PI3 PI4-kinase family	TRA1	FAT,FATC,PI3_PI4_kinase
+aligned_OG0000703_pruned_1	Transmembrane proteins 14C	-	Tmemb_14
+aligned_OG0000740_pruned_1	Serine carboxypeptidase	KEX1	Peptidase_S10
+aligned_OG0000772_pruned_1	Peptidase family M48	OMA1	Peptidase_M48
+aligned_OG0000797_pruned_1	GTP-binding protein YPT32 YPT11	YPT31	Ras
+aligned_OG0000820_pruned_2	Belongs to the inositol phosphokinase (IPK) family	-	IPK
+aligned_OG0000841_pruned_3	Homeodomain	-	Homeobox
+aligned_OG0000865_pruned_2	WD repeat protein Prp5	PRP46	WD40
+aligned_OG0000880_pruned_1	Rhodanese-like domain	-	Rhodanese
+aligned_OG0000916_pruned	Conidiation protein 6	-	Con-6
+aligned_OG0000961_pruned_2	Thioesterase superfamily	-	4HBT
+aligned_OG0000962_pruned_1	Control of topological states of DNA by transient breakage and subsequent rejoining of DNA strands. Topoisomerase II makes double-strand breaks	TOP2	DNA_gyraseB,DNA_topoisoIV,HATPase_c,TOPRIM_C,Toprim
+aligned_OG0000973_pruned_1	Phosphoribosyl-AMP cyclohydrolase	HIS4	Histidinol_dh,PRA-CH,PRA-PH
+aligned_OG0001017_pruned	uridine kinase activity	-	KAP_NTPase,SRP54
+aligned_OG0001070_pruned_2	Lysine methyltransferase	EFM7	Methyltransf_16
+aligned_OG0001072_pruned_1	SMC proteins Flexible Hinge Domain	SMC4	SMC_N,SMC_hinge
+aligned_OG0001088_pruned_1	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates	RPO41	RNA_pol,RPOL_N
+aligned_OG0001109_pruned_2	Histone-like transcription factor (CBF/NF-Y) and archaeal histone	HAP3	CBFD_NFYB_HMF
+aligned_OG0001120_pruned_3	Belongs to the Ca(2 ) cation antiporter (CaCA) (TC 2.A.19) family	-	Na_Ca_ex
+aligned_OG0001177_pruned_2	phd finger domain protein	-	PHD
+aligned_OG0001194_pruned_1	Belongs to the Orn Lys Arg decarboxylase class-II family	SPE1	Orn_Arg_deC_N,Orn_DAP_Arg_deC
+aligned_OG0001199_pruned	Anticodon binding domain	GRS1	HGTP_anticodon,tRNA-synt_2b
+aligned_OG0001236_pruned	Ribosomal protein L16p/L10e	RPL10	Ribosomal_L16
+aligned_OG0001308_pruned_2	Nuclear export factor	SAC3	SAC3,SAC3_GANP
+aligned_OG0001316_pruned_2	Belongs to the terpene cyclase mutase family	ERG7	SQHop_cyclase_C,SQHop_cyclase_N
+aligned_OG0001327_pruned_1	Triose-phosphate Transporter family	-	TPT
+aligned_OG0001392_pruned_1	Cyclin	PCL7	Cyclin
+aligned_OG0001464_pruned_2	Peptidase dimerisation domain	CPGL	M20_dimer,Peptidase_M20
+aligned_OG0001532_pruned_1	MYND finger	samB	zf-MYND
+aligned_OG0001598_pruned	Necessary for protein translocation in the endoplasmic reticulum	SBH1	Sec61_beta
+aligned_OG0001637_pruned_3	Aldo/keto reductase family	-	Aldo_ket_red
+aligned_OG0001717_pruned_1	Phosphoribosylglycinamide synthetase, C domain	-	AIRS,AIRS_C,GARS_A,GARS_C,GARS_N
+aligned_OG0001732_pruned	Surface antigen	-	Bac_surface_Ag
+aligned_OG0001755_pruned_2	Nitronate monooxygenase	-	NMO
+aligned_OG0001758_pruned	zn cluster transcription factor rds2	RDS2	SPO22,Zn_clus
+aligned_OG0001832_pruned	4'-phosphopantetheinyl transferase superfamily	-	ACPS
+aligned_OG0001843_pruned	DNA Topoisomerase I (eukaryota)	TOP1	Topo_C_assoc,Topoisom_I,Topoisom_I_N
+aligned_OG0001956_pruned_1	NOSIC (NUC001) domain	NOP58	NOP5NT,Nop
+aligned_OG0001956_pruned_2	NOSIC (NUC001) domain	NOP58	NOP5NT,Nop
+aligned_OG0002008_pruned_1	Raptor N-terminal CASPase like domain	KOG1	HEAT,Raptor_N,WD40
+aligned_OG0002043_pruned_3	Transcription factor	-	GAGA,zf-C2H2
+aligned_OG0002048_pruned_2	heat shock factor	SKN7	HSF_DNA-bind,Response_reg
+aligned_OG0002050_pruned_1	FKBP-type peptidyl-prolyl cis-trans isomerase	FPR2	FKBP_C
+aligned_OG0002104_pruned_2	Transcription elongation factor	tfs1	Med26,TFIIS_C,TFIIS_M
+aligned_OG0002302_pruned	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates	RPA190	RNA_pol_Rpb1_1,RNA_pol_Rpb1_2,RNA_pol_Rpb1_3,RNA_pol_Rpb1_4,RNA_pol_Rpb1_5
+aligned_OG0002361_pruned_2	chch domain protein	-	DUF2076
+aligned_OG0002395_pruned	Transporter	-	MFS_1
+aligned_OG0002466_pruned_2	Binds specifically to cytosolic chaperonin (c-CPN) and transfers target proteins to it. Binds to nascent polypeptide chain and promotes folding in an environment in which there are many competing pathways for nonnative proteins	-	Prefoldin
+aligned_OG0002587_pruned_1	RNA12 protein	YME2	RNA12,RRM_1
+aligned_OG0002587_pruned_2	RNA12 protein	YME2	RNA12,RRM_1
+aligned_OG0002609_pruned_2	Proteasome/cyclosome repeat	RPN1	PC_rep
+aligned_OG0002741_pruned_1	DNA-directed RNA polymerase I	RPB10	RNA_pol_N
+aligned_OG0002783_pruned_2	KR domain	-	adh_short_C2
+aligned_OG0002819_pruned_2	SPX domain	-	SPX,zf-C3HC4,zf-C3HC4_3,zf-C3HC4_4,zf-RING_UBOX
+aligned_OG0002859_pruned	Isocitrate/isopropylmalate dehydrogenase	LYS12	Iso_dh
+aligned_OG0002941_pruned_2	-	-	-
+aligned_OG0002945_pruned_2	Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family	KAR3	Kinesin
+aligned_OG0003104_pruned	Domain of unknown function (DUF383)	HGH1	DUF383,DUF384
+aligned_OG0003121_pruned_1	VHS domain	-	GAT,VHS
+aligned_OG0003168_pruned_1	peptide-lysine-N-acetyltransferase activity	HPA3	Acetyltransf_1
+aligned_OG0003172_pruned_2	Belongs to the metallo-dependent hydrolases superfamily. Peptidase M19 family	-	Peptidase_M19
+aligned_OG0003323_pruned_2	UAA transporter family	YEA4	UAA
+aligned_OG0003343_pruned	Catalyzes the hydroxylation of L-kynurenine (L-Kyn) to form 3-hydroxy-L-kynurenine (L-3OHKyn). Required for synthesis of quinolinic acid	BNA4	FAD_binding_3
+aligned_OG0003666_pruned	domain-containing protein	-	FMO-like,NAD_binding_8
+aligned_OG0003673_pruned	alpha-1,6-mannosyltransferase	och1	Gly_transf_sug
+aligned_OG0003760_pruned_1	Tyrosine phosphatase family	OCA6	Y_phosphatase2
+aligned_OG0003761_pruned_2	Uncharacterised ACR, YagE family COG1723	-	DUF155
+aligned_OG0003820_pruned	Hydroxymethylglutaryl-CoA lyase	-	HMGL-like
+aligned_OG0003827_pruned_1	Acyl-CoA dehydrogenase, C-terminal domain	-	Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_dh_N
+aligned_OG0003877_pruned_2	Transmembrane receptor Wsc1	wsc1	WSC
+aligned_OG0003959_pruned	Possible lysine decarboxylase	-	Lysine_decarbox
+aligned_OG0004003_pruned_2	Uncharacterised ACR, YagE family COG1723	RMD1	DUF155
+aligned_OG0004005_pruned	fatty acid synthase	FAS1	ACPS,Acyl_transf_1,DUF1729,Ketoacyl-synt_C,MaoC_dehydrat_N,MaoC_dehydratas,SAT,adh_short,ketoacyl-synt
+aligned_OG0004042_pruned_1	D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase	-	XFP,XFP_C,XFP_N
+aligned_OG0004362_pruned_3	WD domain, G-beta repeat	-	WD40
+aligned_OG0004463_pruned	Mo-co oxidoreductase dimerisation domain	-	Cyt-b5,FAD_binding_6,Mo-co_dimer,NAD_binding_1,Oxidored_molyb
+aligned_OG0004718_pruned_2	Pre-SET motif	-	Pre-SET,SET
+aligned_OG0004724_pruned_2	K+ potassium transporter	-	K_trans
+aligned_OG0004749_pruned_1	DNAJC11 family DNAJ domain-containing protein	-	DUF3395,DnaJ
+aligned_OG0004749_pruned_2	Domain of unknown function (DUF3395)	-	DUF3395,DnaJ
+aligned_OG0004815_pruned	Microtubule binding	KIP2	Kinesin
+aligned_OG0004823_pruned_1	Caleosin related protein	-	Caleosin
+aligned_OG0004872_pruned	Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family	BAT2	Aminotran_4
+aligned_OG0004968_pruned_2	prohibitin homologues	SLP2	Band_7,Band_7_C
+aligned_OG0005067_pruned	Carboxymuconolactone decarboxylase family	-	Abhydrolase_1,CMD
+aligned_OG0005237_pruned	Domain of unknown function DUF21	-	DUF21
+aligned_OG0005256_pruned_2	Pyridine nucleotide-disulphide oxidoreductase	-	Pyr_redox_2
+aligned_OG0005351_pruned	X-Pro dipeptidyl-peptidase (S15 family)	-	AXE1,Hydrolase_4,Peptidase_S15
+aligned_OG0005374_pruned_1	Protein of unknown function (DUF2470)	-	DUF2470
+aligned_OG0005415_pruned	Saccharomyces cerevisiae YEL023c	-	DUF2235
+aligned_OG0005461_pruned_1	Cysteine dioxygenase type I	-	CDO_I
+aligned_OG0005566_pruned	GDP-fucose protein O-fucosyltransferase	-	O-FucT
+aligned_OG0005573_pruned	-	-	bZIP_2
+aligned_OG0005714_pruned	-	-	DHH
+aligned_OG0005899_pruned	Uncharacterized protein conserved in bacteria (DUF2236)	-	DUF2236
+aligned_OG0005974_pruned	Acyl-coenzyme A oxidase N-terminal	-	ACOX,Acyl-CoA_dh_1,Acyl-CoA_dh_M,Acyl-CoA_ox_N
+aligned_OG0005984_pruned_1	Fungal specific transcription factor domain	-	Fungal_trans,Zn_clus
+aligned_OG0006127_pruned	-	-	-
+aligned_OG0006152_pruned	-	-	-
+aligned_OG0006372_pruned	to Saccharomyces cerevisiae HMX1 (YLR205C)	HMX1	Heme_oxygenase
+aligned_OG0006406_pruned	-	-	-
+aligned_OG0006411_pruned	-	-	-
+aligned_OG0006558_pruned	Epidermal growth factor-like domain.	ADP1	ABC2_membrane,ABC_tran,EGF_2
+aligned_OG0006683_pruned	NADH:flavin oxidoreductase / NADH oxidase family	-	Oxidored_FMN
+aligned_OG0006926_pruned	Cytochrome P450	-	p450
+aligned_OG0007007_pruned	Glycosyl hydrolase family 76	-	Glyco_hydro_76
+aligned_OG0007071_pruned	GNL3L/Grn1 putative GTPase	-	GN3L_Grn1,MMR_HSR1
+aligned_OG0007083_pruned	Serine aminopeptidase, S33	-	Hydrolase_4
+aligned_OG0007113_pruned	Pyridoxal-phosphate dependent enzyme	-	PALP
+aligned_OG0007157_pruned	Mitochondrial ribosomal protein subunit	-	Mit_ribos_Mrp51
+aligned_OG0007293_pruned	-	-	-
+aligned_OG0007321_pruned	-	-	-
+aligned_OG0007444_pruned	zinc finger	-	-
+aligned_OG0007467_pruned	to Saccharomyces cerevisiae SLS1 (YLR139C)	SLS1	SLS
+aligned_OG0007626_pruned	Membrane bound O-acyl transferase family	-	MBOAT_2
+aligned_OG0007632_pruned	-	-	-
+aligned_OG0007636_pruned	Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family	-	Aminotran_3
+aligned_OG0007788_pruned	Putative stress-responsive nuclear envelope protein	-	Ish1
+aligned_OG0007991_pruned	NAD-P-binding protein	-	NAD_binding_11,NAD_binding_2
+aligned_OG0008400_pruned	-	-	-
+aligned_OG0008581_pruned	Cupin-like domain	-	Cupin_8,F-box,F-box-like
+aligned_OG0008701_pruned	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain	-	Zn_clus
+aligned_OG0008936_pruned	-	-	-
+aligned_OG0008972_pruned	to Saccharomyces cerevisiae ASH1 (YKL185W)	ASH1	GATA
+aligned_OG0009088_pruned	SCP-2 sterol transfer family	-	SCP2
+aligned_OG0009134_pruned	PX-associated	-	DUF3818,PXB
+aligned_OG0009153_pruned	Erythromycin esterase	-	Erythro_esteras
+aligned_OG0009205_pruned	Chromatin organization modifier domain	-	Chromo
+aligned_OG0009345_pruned	ubiquitin-protein ligase E3	-	zf-RING_2
+aligned_OG0009353_pruned	Belongs to the thioredoxin family	-	Thioredoxin
+aligned_OG0009370_pruned	MafB19-like deaminase	TAD2	dCMP_cyt_deam_1
+aligned_OG0009381_pruned	Beta-lactamase superfamily domain	-	Lactamase_B_3
+aligned_OG0009407_pruned	Promethin	-	Promethin
+aligned_OG0009410_pruned	Inosine-uridine preferring nucleoside hydrolase	-	IU_nuc_hydro
+aligned_OG0009500_pruned	GAL4-like Zn(II)2Cys6 (or C6 zinc) binuclear cluster DNA-binding domain	-	Zn_clus
+aligned_OG0009501_pruned	DNA binding protein Ncp1	-	-
+aligned_OG0009692_pruned	-	-	-
+aligned_OG0009802_pruned	-	-	-
+aligned_OG0009856_pruned	-	-	-

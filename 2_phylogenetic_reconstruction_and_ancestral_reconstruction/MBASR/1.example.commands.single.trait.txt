@@ -1,0 +1,24 @@
+# Run from the main phylogenetic reconstruction directory.
+MBASR.directory=normalizePath("MBASR")
+trait.file=file.path(MBASR.directory,"..","..",
+    "1_data_acquisition_and_functional_annotation","related_files","76_fungi_trait.txt")
+traits=read.delim(trait.file,stringsAsFactors=FALSE)
+
+# MBASR expects species names and states without a header.
+write.table(traits[,c("names","trait")],
+    file.path(MBASR.directory,"input","fungi_trait.txt"),
+    sep="\t",quote=FALSE,row.names=FALSE,col.names=FALSE)
+
+setwd(MBASR.directory)
+source("MBASR.load.functions.R")
+
+file.name.tree="fungi_tree.nwk"
+file.name.trait.data="fungi_trait.txt"
+file.name.plot.settings="plot.settings.txt"
+character.type="ordered"
+n.samples=5000
+
+MBASR(file.name.tree,file.name.trait.data,file.name.plot.settings,character.type,n.samples)
+
+# Optional: redraw the tree after changing the plot settings.
+replot(file.name.tree,file.name.trait.data,file.name.plot.settings)

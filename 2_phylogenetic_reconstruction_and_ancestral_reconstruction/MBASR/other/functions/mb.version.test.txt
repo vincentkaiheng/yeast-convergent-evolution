@@ -1,0 +1,5 @@
+log start filename=version.test.txt;
+version;
+log stop;
+
+

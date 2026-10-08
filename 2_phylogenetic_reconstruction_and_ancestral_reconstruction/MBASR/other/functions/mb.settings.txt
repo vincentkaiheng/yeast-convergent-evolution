@@ -1,0 +1,51 @@
+
+log start filename=log.txt;
+
+exe matrix.nex;
+
+exe my_ctype.txt;
+
+set autoclose=yes;
+set nowarnings=yes;
+set quitonerror=no;
+
+charset Subset01 = 1;
+charset Subset02 = 2-5;
+partition mypartitions = 2: Subset01, Subset02;
+set partition = mypartitions;
+
+unlink statefreq=(all);
+
+lset applyto=(1) coding=variable;
+lset applyto=(2) coding=variable;
+
+prset applyto=(1) statefreq=fixed(equal);
+prset applyto=(2) statefreq=fixed(equal);
+
+prset brlenspr=clock:uniform;
+prset clockvarpr=igr;
+prset igrvarpr=exp(10);
+prset nodeagepr=calibrated;
+prset clockratepr=normal(1,100);
+
+exe MrBayes.topological.and.node.age.constraints.txt;
+
+report applyto=(1) ancstates=yes;
+
+exe my_ngen.txt;
+mcmcp samplefreq=100 diagnfreq=100 printfreq=100 checkpoint=no;
+mcmcp nruns=1 nchains=12 temp=0.05;
+mcmcp relburnin=no burnin=0;
+
+exe my_props.txt;
+
+set seed=12345;
+set swapseed=67890;
+
+mcmc;
+
+log stop;
+
+
+
+

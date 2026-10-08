@@ -1,0 +1,72 @@
+# macOS and editors
+.DS_Store
+._*
+*.swp
+*.swo
+*~
+
+# Python, R, Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+.venv/
+venv/
+
+# Local settings
+.env
+.env.*
+!.env.example
+credentials.json
+id_rsa
+id_ed25519
+
+# Raw reads and mapping intermediates
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.cram
+
+# Repeat-analysis intermediates
+/1_data_acquisition_and_functional_annotation/76_fna/*.masked
+/1_data_acquisition_and_functional_annotation/76_fna/*.out
+/1_data_acquisition_and_functional_annotation/76_fna/*.out.gff
+/1_data_acquisition_and_functional_annotation/76_fna/*.cat.gz
+/1_data_acquisition_and_functional_annotation/TE_analysis/**/RM_*/
+/1_data_acquisition_and_functional_annotation/TE_analysis/**/*.DB.n*
+/1_data_acquisition_and_functional_annotation/TE_analysis/**/*.DB.translation
+/1_data_acquisition_and_functional_annotation/TE_analysis/**/*.log
+
+# Software downloads and tree checkpoints
+/2_phylogenetic_reconstruction_and_ancestral_reconstruction/MBASR/other/mb/*
+!/2_phylogenetic_reconstruction_and_ancestral_reconstruction/MBASR/other/mb/README.md
+/2_phylogenetic_reconstruction_and_ancestral_reconstruction/MBASR/other/provided.executables/
+/2_phylogenetic_reconstruction_and_ancestral_reconstruction/MBASR/other/install.this.font/
+/2_phylogenetic_reconstruction_and_ancestral_reconstruction/MBASR/other/read.me/
+/2_phylogenetic_reconstruction_and_ancestral_reconstruction/final_treefile/*.log
+/2_phylogenetic_reconstruction_and_ancestral_reconstruction/final_treefile/*.ckp.gz
+/2_phylogenetic_reconstruction_and_ancestral_reconstruction/final_treefile/*.model.gz
+
+# PAPS indexes
+*.db.dir
+*.db.pag
+
+# Dating run files
+/3_orthogroup_based_analysis_of_gene_family_evolution_across_independent_yeast_lineages/CAFE/timetree/mcmc.txt
+/3_orthogroup_based_analysis_of_gene_family_evolution_across_independent_yeast_lineages/CAFE/timetree/mcmc.out
+/3_orthogroup_based_analysis_of_gene_family_evolution_across_independent_yeast_lineages/CAFE/timetree/lnf
+/3_orthogroup_based_analysis_of_gene_family_evolution_across_independent_yeast_lineages/CAFE/timetree/tmp*
+/3_orthogroup_based_analysis_of_gene_family_evolution_across_independent_yeast_lineages/CAFE/timetree/rates
+/3_orthogroup_based_analysis_of_gene_family_evolution_across_independent_yeast_lineages/CAFE/timetree/rst
+/3_orthogroup_based_analysis_of_gene_family_evolution_across_independent_yeast_lineages/CAFE/timetree/rst1
+/3_orthogroup_based_analysis_of_gene_family_evolution_across_independent_yeast_lineages/CAFE/timetree/rub
+
+# Scratch files
+/_external_data/
+/_scratch/

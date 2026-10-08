@@ -1,0 +1,4 @@
+	predicted_Filamentous	predicted_Strict yeast	predicted_Dimorphic
+true_Filamentous	587	26	47
+true_Strict yeast	0	395	45
+true_Dimorphic	50	152	218

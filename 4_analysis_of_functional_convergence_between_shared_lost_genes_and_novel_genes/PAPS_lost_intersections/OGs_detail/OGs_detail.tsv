@@ -1,0 +1,90 @@
+OG	count	combo	name	description	PFAMs
+OG0000022	3	Agaricomycotina&Taphrinomycotina&Saccharomycotina	No_annotation	cytochrome P450	p450
+OG0002992	3	Pucciniomycotina&Saccharomycotina&Pezizomycotina	No_annotation	Belongs to the oxygen-dependent FAD-linked oxidoreductase family	BBE,FAD_binding_4
+OG0000126	3	Agaricomycotina&Taphrinomycotina&Saccharomycotina	No_annotation	Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin Fzo YdjA family	Dynamin_M,Dynamin_N,GED
+OG0006795	3	Pucciniomycotina&Agaricomycotina&Taphrinomycotina	HSF4	heat shock factor	HSF_DNA-bind
+OG0007580	2	Taphrinomycotina&Saccharomycotina	No_annotation	No_description	No_PFAM
+OG0007577	2	Taphrinomycotina&Saccharomycotina	No_annotation	LPXTG-motif cell wall anchor domain protein	No_PFAM
+OG0007544	2	Pucciniomycotina&Pezizomycotina	No_annotation	Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide	Catalase,Catalase-rel
+OG0007469	2	Taphrinomycotina&Pezizomycotina	No_annotation	Jacalin-like lectin domain	Exo_endo_phos,Jacalin
+OG0007391	2	Agaricomycotina&Pezizomycotina	No_annotation	ATPase domain predominantly from Archaea	ATPase_2
+OG0007267	2	Taphrinomycotina&Saccharomycotina	No_annotation	No_description	No_PFAM
+OG0007148	2	Taphrinomycotina&Pezizomycotina	SFP1	zinc finger	zf-C2H2
+OG0007100	2	Taphrinomycotina&Saccharomycotina	No_annotation	PPR repeat family	PPR,PPR_2,PPR_3
+OG0007090	2	Taphrinomycotina&Saccharomycotina	No_annotation	Utp8 family	Utp8
+OG0007078	2	Taphrinomycotina&Saccharomycotina	No_annotation	Protein tyrosine kinase	Pkinase,Pkinase_Tyr
+OG0007594	2	Taphrinomycotina&Saccharomycotina	No_annotation	No_description	No_PFAM
+OG0006882	2	Taphrinomycotina&Pezizomycotina	No_annotation	No_description	No_PFAM
+OG0006851	2	Pucciniomycotina&Agaricomycotina	No_annotation	MYND finger	zf-MYND
+OG0006713	2	Pucciniomycotina&Taphrinomycotina	No_annotation	No_description	No_PFAM
+OG0006671	2	Pucciniomycotina&Agaricomycotina	VPS33	zinc finger binding to DNA consensus sequence [AT]GATA[AG]	DUF1752,GATA
+OG0006611	2	Pucciniomycotina&Pezizomycotina	No_annotation	Glycosyl hydrolases family 2, sugar binding domain	Glyco_hydro_2,Glyco_hydro_2_C,Glyco_hydro_2_N
+OG0006477	2	Pucciniomycotina&Agaricomycotina	No_annotation	No_description	No_PFAM
+OG0006439	2	Pucciniomycotina&Pezizomycotina	No_annotation	Common central domain of tyrosinase	Tyrosinase
+OG0006275	2	Taphrinomycotina&Pezizomycotina	No_annotation	No_description	MFS_1
+OG0006959	2	Agaricomycotina&Taphrinomycotina	No_annotation	No_description	No_PFAM
+OG0016376	2	Pucciniomycotina&Taphrinomycotina	ERG1	Flavin containing amine oxidoreductase	Amino_oxidase
+OG0015647	2	Taphrinomycotina&Pezizomycotina	No_annotation	Domain of unknown function (DUF1772)	DUF1772
+OG0014802	2	Pucciniomycotina&Pezizomycotina	No_annotation	No_description	No_PFAM
+OG0013557	2	Pucciniomycotina&Pezizomycotina	No_annotation	Methyltransferase domain	Methyltransf_23,Methyltransf_25
+OG0013543	2	Pucciniomycotina&Pezizomycotina	No_annotation	Chromo (CHRromatin Organisation MOdifier) domain	Chromo
+OG0011964	2	Agaricomycotina&Taphrinomycotina	No_annotation	No_description	No_PFAM
+OG0011542	2	Pucciniomycotina&Taphrinomycotina	APR1	Xylanase inhibitor N-terminal	Asp
+OG0010645	2	Taphrinomycotina&Pezizomycotina	No_annotation	DSBA-like thioredoxin domain	DSBA
+OG0010599	2	Pucciniomycotina&Agaricomycotina	No_annotation	No_description	No_PFAM
+OG0010439	2	Pucciniomycotina&Pezizomycotina	No_annotation	Inhibitor of growth proteins N-terminal histone-binding	ING
+OG0007622	2	Taphrinomycotina&Saccharomycotina	No_annotation	No_description	No_PFAM
+OG0010186	2	Pucciniomycotina&Agaricomycotina	No_annotation	Mediator complex protein	Med11
+OG0010184	2	Pucciniomycotina&Agaricomycotina	No_annotation	No_description	Kelch_3,Kelch_4
+OG0010178	2	Pucciniomycotina&Agaricomycotina	No_annotation	No_description	No_PFAM
+OG0008815	2	Ustilaginomycotina&Taphrinomycotina	No_annotation	Belongs to the FMO family	FMO-like,K_oxygenase
+OG0008710	2	Agaricomycotina&Taphrinomycotina	No_annotation	transcription, DNA-templated	GATA
+OG0008462	2	Pucciniomycotina&Agaricomycotina	No_annotation	No_description	No_PFAM
+OG0007675	2	Pucciniomycotina&Pezizomycotina	DyP1	The amino acid sequence converted into a structural homology model presents the general folding and conserved residues forming the active site of a typical dye-decolorizing-type	Dyp_perox
+OG0007631	2	Taphrinomycotina&Saccharomycotina	No_annotation	No_description	No_PFAM
+OG0006169	2	Pucciniomycotina&Agaricomycotina	exgB	Belongs to the glycosyl hydrolase 5 (cellulase A) family	Cellulase
+OG0007605	2	Taphrinomycotina&Saccharomycotina	No_annotation	No_description	No_PFAM
+OG0010189	2	Pucciniomycotina&Agaricomycotina	No_annotation	No_description	No_PFAM
+OG0003708	2	Agaricomycotina&Taphrinomycotina	No_annotation	Peptide N-acetyl-beta-D-glucosaminyl asparaginase amidase A	PNGaseA
+OG0003686	2	Taphrinomycotina&Saccharomycotina	No_annotation	Alpha/beta hydrolase family	Abhydrolase_1,Abhydrolase_6
+OG0003163	2	Ustilaginomycotina&Saccharomycotina	GAD1	mismatched base pair and cruciform DNA recognition	CsbD
+OG0002985	2	Pucciniomycotina&Taphrinomycotina	OTOGL	Myosin class ii heavy chain	AbfB,C8,TIL,VWD
+OG0001413	2	Pucciniomycotina&Agaricomycotina	No_annotation	Nonribosomal peptide synthetase 12	AMP-binding,AMP-binding_C
+OG0001002	2	Agaricomycotina&Saccharomycotina	MgPP2CL-1	Pectate lyase superfamily protein	Pectate_lyase_3
+OG0000995	2	Pucciniomycotina&Agaricomycotina	aglB	alpha-galactosidase	CBM_1,Melibiase_2
+OG0000914	2	Pucciniomycotina&Agaricomycotina	ppoC	Animal haem peroxidase	An_peroxidase,p450
+OG0000837	2	Agaricomycotina&Pezizomycotina	APR1	Eukaryotic aspartyl protease	Asp
+OG0006159	2	Pucciniomycotina&Agaricomycotina	PTAR1	protein prenyltransferase activity	PPTA
+OG0000692	2	Pucciniomycotina&Agaricomycotina	SCPA	Belongs to the peptidase S10 family	Peptidase_S10
+OG0000631	2	Pucciniomycotina&Agaricomycotina	No_annotation	Pro-kumamolisin, activation domain	Peptidase_S8,Pro-kuma_activ
+OG0000516	2	Pucciniomycotina&Taphrinomycotina	DAG7	Lytic transglycolase	DPBB_1
+OG0000475	2	Pucciniomycotina&Agaricomycotina	lacA	Beta-galactosidase, domain 3	BetaGal_dom2,BetaGal_dom3,BetaGal_dom4_5,Glyco_hydro_35
+OG0000314	2	Agaricomycotina&Taphrinomycotina	No_annotation	Terpenoid synthase	Terpene_synth_C
+OG0000244	2	Agaricomycotina&Taphrinomycotina	No_annotation	Dienelactone hydrolase family	DLH
+OG0000120	2	Pucciniomycotina&Agaricomycotina	SED2	Pro-kumamolisin, activation domain	Peptidase_S8,Pro-kuma_activ
+OG0000051	2	Agaricomycotina&Taphrinomycotina	AIM9	Phosphotransferase enzyme family	APH
+OG0000012	2	Pucciniomycotina&Taphrinomycotina	HST2	Cytochrome P450	p450
+OG0000006	2	Agaricomycotina&Taphrinomycotina	No_annotation	Expressed protein	Tmemb_14
+OG0000720	2	Pucciniomycotina&Agaricomycotina	No_annotation	iron ion binding	p450
+OG0017739	2	Taphrinomycotina&Pezizomycotina	No_annotation	Aristolochene Synthase	No_PFAM
+OG0006155	2	Agaricomycotina&Taphrinomycotina	No_annotation	Glycoside hydrolase family 3	Fn3-like,Glyco_hydro_3,Glyco_hydro_3_C
+OG0005789	2	Agaricomycotina&Saccharomycotina	No_annotation	Zinc-finger domain of monoamine-oxidase A repressor R1	JmjC,zf-4CXXC_R1
+OG0005788	2	Agaricomycotina&Taphrinomycotina	No_annotation	Myosin-like coiled-coil protein	Taxilin
+OG0005497	2	Agaricomycotina&Pezizomycotina	RPL27	FAD-binding domain-containing protein	BBE,FAD_binding_4
+OG0005484	2	Agaricomycotina&Taphrinomycotina	No_annotation	AAA domain	AAA_11,AAA_12
+OG0005467	2	Agaricomycotina&Saccharomycotina	No_annotation	Belongs to the complex I LYR family	Complex1_LYR
+OG0005370	2	Agaricomycotina&Taphrinomycotina	MLP1	zinc finger	YEATS
+OG0005340	2	Agaricomycotina&Pezizomycotina	TRX3	Thioredoxin	Thioredoxin
+OG0005333	2	Agaricomycotina&Pezizomycotina	No_annotation	GMC oxidoreductase	GMC_oxred_C,GMC_oxred_N
+OG0003948	2	Agaricomycotina&Saccharomycotina	ALG11	Emopamil binding protein	EBP
+OG0005152	2	Ustilaginomycotina&Agaricomycotina	GPATCH8	Zinc-finger double-stranded RNA-binding	zf-C2H2_jaz
+OG0005046	2	Pucciniomycotina&Agaricomycotina	No_annotation	No_description	No_PFAM
+OG0005005	2	Pucciniomycotina&Agaricomycotina	No_annotation	Belongs to the glutamine synthetase family	Amidohydro_2,Gln-synt_C
+OG0004907	2	Pucciniomycotina&Taphrinomycotina	No_annotation	Glucose dehydrogenase C-terminus	ADH_N,ADH_zinc_N
+OG0004583	2	Pucciniomycotina&Taphrinomycotina	HIRIP3	Transcriptional regulator	DEK_C
+OG0004560	2	Agaricomycotina&Saccharomycotina	No_annotation	Mo-co oxidoreductase dimerisation domain	Mo-co_dimer,Oxidored_molyb
+OG0004439	2	Pucciniomycotina&Agaricomycotina	No_annotation	Myb-like DNA-binding domain	Myb_DNA-bind_6,Myb_DNA-binding
+OG0004371	2	Pucciniomycotina&Agaricomycotina	ACH1	Whi5 like	Whi5
+OG0004315	2	Taphrinomycotina&Saccharomycotina	No_annotation	NAD dependent epimerase dehydratase	Epimerase
+OG0004157	2	Pucciniomycotina&Agaricomycotina	xgeA	Belongs to the glycosyl hydrolase 12 (cellulase H) family	Glyco_hydro_12
+OG0005204	2	Agaricomycotina&Taphrinomycotina	MET1	Belongs to the precorrin methyltransferase family	NAD_binding_7,Sirohm_synth_C,Sirohm_synth_M,TP_methylase

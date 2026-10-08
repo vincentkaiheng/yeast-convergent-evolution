@@ -1,0 +1,17 @@
+# Optional template; supply a multi-trait matrix and ordered-character list.
+# Run from the main phylogenetic reconstruction directory.
+MBASR.directory=normalizePath("MBASR")
+setwd(MBASR.directory)
+source("MBASR.load.functions.R")
+
+file.name.tree="fungi_tree.nwk"
+file.name.multi.trait.csv="fungi.matrix.csv"
+file.name.plot.settings="plot.settings.txt"
+file.name.ordered.characters="fungi.ordered.characters.txt"
+n.samples=1000
+
+MBASR.multi.trait(file.name.tree,file.name.multi.trait.csv,file.name.plot.settings,file.name.ordered.characters,n.samples)
+
+# Optional: redraw the tree after changing the plot settings.
+replot.multi.trait(file.name.tree,file.name.multi.trait.csv,file.name.plot.settings)
+

@@ -1,0 +1,3 @@
+37 Pucciniomycotina-yeast -28/+12 -462/+172
+45_basi Ustilaginomycotina-yeast -1/+0 -8/+0
+52 Agaricomycotina-yeast -36/+7 -825/+208
