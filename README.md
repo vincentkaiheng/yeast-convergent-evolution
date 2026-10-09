@@ -1,6 +1,6 @@
-# Comparative genomic analyses of independent yeast lineages
+# Comparative genomic analyses of yeast convergent evolution
 
-This repository contains analysis scripts, example data and selected results for the study of independent yeast lineages.
+This repository contains analysis scripts, example data and selected results for the study of yeast convergent evolution.
 
 ## Analyses
 

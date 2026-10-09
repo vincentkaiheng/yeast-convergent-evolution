@@ -33,7 +33,7 @@ Run the following steps from `RER/`.
 
 The notebook defines the 43 yeast foreground species and their internal foreground branches. Its seven clade groups include separate Exophiala and Aureobasidium groups within Pezizomycotina; Acaromyces is a separate foreground tip. Glomus and Umbelopsis are used to root the foreground-tree display.
 
-The output `cor_all.txt` contains 7,281 tested ortholog sets with usable statistics. Candidate sets are selected using **Rho > 0.35 and raw P < 0.05** for acceleration, or **Rho < -0.35 and raw P < 0.05** for deceleration. These give 277 accelerated and 161 decelerated sets in `cor_pos.txt` and `cor_neg.txt`. BH-adjusted P values are retained alongside the raw P values; 166 accelerated and 42 decelerated sets also have adjusted P < 0.05.
+The output `cor_all.txt` contains 7,281 tested ortholog sets with usable statistics. Candidate sets are selected using **Rho > 0.35 and raw P < 0.05** for acceleration, or **Rho < -0.35 and raw P < 0.05** for deceleration. These give 277 accelerated and 161 decelerated sets in `cor_pos.txt` and `cor_neg.txt`.
 
 `Rho` is the association coefficient returned by the binary-phenotype analysis, `N` is the number of branches included, and `stat` is `sign(Rho) × -log10(P)`.
 
